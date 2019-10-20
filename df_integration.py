@@ -1,7 +1,7 @@
 import pandas as pd
+from pandas.api.types import is_numeric_dtype
 import os
 import string
-import numpy as np
 from unidecode import unidecode
 
 
@@ -31,6 +31,22 @@ def update_cleaned_wikipedia_songs():
     eurovision_df.to_csv(os.path.join('data',r'cleaned_wikipedia_songs.csv'))
 
 def integrate_databases():
+
+    def replace_null(df_series, value):
+        if pd.isnull(value):
+            if is_numeric_dtype(df_series):
+                return large_spotify[column].median()
+            elif column == 'key':
+                #equal C
+                return 0 
+            elif column == 'mode':
+                # equal major
+                return 1
+            elif column == 'time_signature':
+                # equal 4/4
+                return 4
+        return value
+
     # 50% null
     spotify = pd.read_csv(os.path.join('data',r'spotify_audio_features.csv'))
     spotify.rename({"name": "song"}, axis=1, inplace=True)
@@ -38,9 +54,15 @@ def integrate_databases():
     merged = pd.merge(spotify, wiki, how='right', on=['song'])
     
     merged = merged.loc[:, ~merged.columns.str.contains('^Unnamed')]
+    merged.drop(columns=['type','id','uri','track_href','analysis_url','duration_ms'], inplace=True)
+    # fill null values with median of larger spotify dataset
+    large_spotify = pd.read_csv(os.path.join('data',r'large_spotify_songs.csv'))
+    spotify_columns = ((set(merged.keys())).difference(set(wiki.keys()))) & set(large_spotify.keys())
+    for column in spotify_columns: 
+        merged[column] =  merged.apply(lambda row:  replace_null(large_spotify[column], row[column]), axis=1)  
+   
     print('merged len',len(merged))
     merged.to_csv(os.path.join('data',r'merged_euro.csv'))
-
 
 
 if __name__ == "__main__":
