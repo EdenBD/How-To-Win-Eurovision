@@ -23,5 +23,5 @@ for column in music_columns:
     p.set_title('{} distribution'.format(column))
     p.set_xlabel('')
     p.legend()
-    plt.savefig('historgam with bins=20 for {}.png'.format(column))
+    plt.savefig(os.path.join('visualizations','histogram with bins=20 for {}.png'.format(column)))
     plt.clf()

@@ -76,7 +76,7 @@ chart.set_title('Number of Eurovision Top Finishes By Country')
 # In[315]:
 
 
-plt.savefig('winspercountry.png')
+plt.savefig(os.path.join('visualizations','winspercountry.png'))
 
 
 # ### Plotting Keys of Top Finishing Songs
@@ -111,5 +111,5 @@ chart.set_title('Number of Eurovision Top Finishing Songs By Key')
 # In[319]:
 
 
-plt.savefig('keys.png')
+plt.savefig(os.path.join('visualizations','keys.png'))
 
