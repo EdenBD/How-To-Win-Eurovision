@@ -3,7 +3,7 @@
 
 # ### Plotting Top Finishes Per Country
 
-# In[309]:
+# In[5]:
 
 
 import pandas as pd
@@ -12,21 +12,21 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 
-# In[310]:
+# In[6]:
 
 
 plt.clf()
 sns.set_palette("pastel")
 
 
-# In[311]:
+# In[7]:
 
 
 merged_euro = pd.read_csv(os.path.join('data',r'cleaned_wikipedia_songs.csv'))
-#merged_euro = merged_euro[merged_euro["rank"].isin([1,2,3])] // if we want top 3 finishes only
+merged_euro = merged_euro[merged_euro["rank"].isin([1,2,3])] #we want top 3 finishes only
 
 
-# In[312]:
+# In[12]:
 
 
 df_plot = merged_euro.groupby(['rank', 'country']).size().reset_index().pivot(columns='rank', index='country', values=0)
@@ -36,16 +36,16 @@ listEurovisionCountries = ["Albania","Andorra","Armenia","Australia","Austria","
 winning_countries = [x.lstrip()  for x in df_plot.index] # getting rid of extra spaces
 other_countries =  [item for item in listEurovisionCountries if item not in winning_countries]
 for o in other_countries:
-    df_plot.loc[o] =  [0, 0, 0, 0, 0]
+    df_plot.loc[o] =  [0, 0, 0]
 
 
 # ordering by descending total (and then deleting the total column so that it won't be rendered in the graph)
-df_plot['total'] = df_plot.fillna(0)[1] + df_plot.fillna(0)[2] + df_plot.fillna(0)[3] + df_plot.fillna(0)[4] + df_plot.fillna(0)[5]
+df_plot['total'] = df_plot.fillna(0)[1] + df_plot.fillna(0)[2] + df_plot.fillna(0)[3]
 df_plot = df_plot.sort_values(by=['total'],ascending=False)
 del df_plot['total']
 
 
-# In[313]:
+# In[13]:
 
 
 # # getting the areas of each country (as of 2018) and adding it to the df
@@ -63,17 +63,18 @@ del df_plot['total']
 # print(len(joined))
 
 
-# In[314]:
+# In[66]:
 
 
 chart = df_plot.plot(kind='bar', stacked=True)
+plt.legend(title="Place")
 plt.gcf().set_size_inches(20,14)
 plt.setp(chart.get_legend().get_texts(), fontsize='22') # for legend text
 plt.setp(chart.get_legend().get_title(), fontsize='22') # for legend title
 chart.set_title('Number of Eurovision Top Finishes By Country')
 
 
-# In[315]:
+# In[62]:
 
 
 plt.savefig(os.path.join('visualizations','winspercountry.png'))
@@ -81,14 +82,15 @@ plt.savefig(os.path.join('visualizations','winspercountry.png'))
 
 # ### Plotting Keys of Top Finishing Songs
 
-# In[316]:
+# In[53]:
 
 
 keys_df = pd.read_csv(os.path.join('data',r'merged_euro.csv'))
-keys_df = keys_df.head(122)  # getting the rows with non-null values
+filter = (~keys_df["tempo"].between(115.34,115.35))# getting the rows with non-null values
+keys_df = keys_df[filter] 
 
 
-# In[317]:
+# In[54]:
 
 
 # converting the numerical keys into a human-readable format
@@ -96,19 +98,20 @@ mapped_keys = keys_df["key"].map({float(0): 'C', float(1): 'C#', float(2): 'D', 
 keys_df["mapped_keys"] = mapped_keys
 
 
-# In[318]:
+# In[65]:
 
 
 plt.clf()
 keys_plot = keys_df.groupby(['rank', 'mapped_keys']).size().reset_index().pivot(columns='rank', index='mapped_keys', values=0)
 chart = keys_plot.plot(kind='bar', stacked=True)
+plt.legend(title="Place")
 plt.gcf().set_size_inches(20,14)
 plt.setp(chart.get_legend().get_texts(), fontsize='22') # for legend text
 plt.setp(chart.get_legend().get_title(), fontsize='22') # for legend title
 chart.set_title('Number of Eurovision Top Finishing Songs By Key')
 
 
-# In[319]:
+# In[61]:
 
 
 plt.savefig(os.path.join('visualizations','keys.png'))
