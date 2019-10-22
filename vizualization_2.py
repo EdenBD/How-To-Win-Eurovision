@@ -3,7 +3,7 @@
 
 # ### Plotting Top Finishes Per Country
 
-# In[51]:
+# In[309]:
 
 
 import pandas as pd
@@ -12,21 +12,21 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 
-# In[52]:
+# In[310]:
 
 
 plt.clf()
 sns.set_palette("pastel")
 
 
-# In[53]:
+# In[311]:
 
 
 merged_euro = pd.read_csv(os.path.join('data',r'cleaned_wikipedia_songs.csv'))
 #merged_euro = merged_euro[merged_euro["rank"].isin([1,2,3])] // if we want top 3 finishes only
 
 
-# In[171]:
+# In[312]:
 
 
 df_plot = merged_euro.groupby(['rank', 'country']).size().reset_index().pivot(columns='rank', index='country', values=0)
@@ -45,7 +45,25 @@ df_plot = df_plot.sort_values(by=['total'],ascending=False)
 del df_plot['total']
 
 
-# In[172]:
+# In[313]:
+
+
+# # getting the areas of each country (as of 2018) and adding it to the df
+# country_area = pd.read_csv(os.path.join('data',r'countryarea.csv'))
+# country_area = country_area[["Country Name","2018"]]
+# country_area['Country Name'] = country_area['Country Name'].astype(str)
+
+# df_plot.fillna(float(0), inplace=True)
+# originalIndices = df_plot.index
+# joined = pd.merge(left=df_plot, right=country_area[["Country Name","2018"]], how='left',left_index=True, right_on="Country Name")
+# joined = joined.set_index(originalIndices)
+# del joined['Country Name']
+
+# print(joined)
+# print(len(joined))
+
+
+# In[314]:
 
 
 chart = df_plot.plot(kind='bar', stacked=True)
@@ -55,7 +73,7 @@ plt.setp(chart.get_legend().get_title(), fontsize='22') # for legend title
 chart.set_title('Number of Eurovision Top Finishes By Country')
 
 
-# In[174]:
+# In[315]:
 
 
 plt.savefig('winspercountry.png')
@@ -63,14 +81,14 @@ plt.savefig('winspercountry.png')
 
 # ### Plotting Keys of Top Finishing Songs
 
-# In[189]:
+# In[316]:
 
 
 keys_df = pd.read_csv(os.path.join('data',r'merged_euro.csv'))
-keys_df = keys_df.head(122)  # getting the non-null in values
+keys_df = keys_df.head(122)  # getting the rows with non-null values
 
 
-# In[190]:
+# In[317]:
 
 
 # converting the numerical keys into a human-readable format
@@ -78,7 +96,7 @@ mapped_keys = keys_df["key"].map({float(0): 'C', float(1): 'C#', float(2): 'D', 
 keys_df["mapped_keys"] = mapped_keys
 
 
-# In[191]:
+# In[318]:
 
 
 plt.clf()
@@ -90,14 +108,8 @@ plt.setp(chart.get_legend().get_title(), fontsize='22') # for legend title
 chart.set_title('Number of Eurovision Top Finishing Songs By Key')
 
 
-# In[192]:
+# In[319]:
 
 
 plt.savefig('keys.png')
-
-
-# In[ ]:
-
-
-
 
