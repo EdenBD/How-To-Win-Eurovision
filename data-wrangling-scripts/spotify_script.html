@@ -13086,7 +13086,7 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[14]:</div>
+<div class="prompt input_prompt">In&nbsp;[1]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="kn">import</span> <span class="nn">json</span>
@@ -13110,10 +13110,10 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[15]:</div>
+<div class="prompt input_prompt">In&nbsp;[2]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">current_token</span> <span class="o">=</span> <span class="s1">&#39;BQAd3a4twYsFseq_VJJ-UdI26pw2v00-iAVhdogSKN7S3H74YqHDDmvkP-XAwDaMPBOBEU5j2Sd-5jABb25UpHvnlkdk9I4MHu4VLIxHowN_CylKdLjSJHIVYKvmOxIWX6McJYFrUqBZHbprae0&#39;</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">current_token</span> <span class="o">=</span> <span class="s1">&#39;BQAtamt872wkWRW0SWSWTUfKS5orAzeXKBRd4hyT1aYHGCzEHhFmpWuSe-P_02-H0bjlwhFAOgyEiqZbewpmLJ6Kl7T1w7kfyDHdumtckl9eTvv-4YM0EQzv2YTyMaN4PMfiVuQaFeqhE6JtvJQ&#39;</span>
 </pre></div>
 
     </div>
@@ -13131,7 +13131,7 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[28]:</div>
+<div class="prompt input_prompt">In&nbsp;[3]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">songs</span> <span class="o">=</span> <span class="p">[</span><span class="s1">&#39;Euphoria&#39;</span><span class="p">,</span> <span class="s1">&#39;Rise Like a Phoenix&#39;</span><span class="p">]</span>
@@ -13153,7 +13153,7 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[29]:</div>
+<div class="prompt input_prompt">In&nbsp;[4]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">countNulls</span> <span class="o">=</span> <span class="mi">0</span>
@@ -13174,7 +13174,7 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[30]:</div>
+<div class="prompt input_prompt">In&nbsp;[6]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">data</span> <span class="o">=</span> <span class="p">[]</span>
@@ -13196,7 +13196,7 @@ div#notebook {
         <span class="n">countNulls</span> <span class="o">+=</span> <span class="mi">1</span>
     <span class="k">else</span><span class="p">:</span>
         <span class="n">songURI</span> <span class="o">=</span> <span class="n">resObject</span><span class="p">[</span><span class="s2">&quot;tracks&quot;</span><span class="p">][</span><span class="s2">&quot;items&quot;</span><span class="p">][</span><span class="mi">0</span><span class="p">][</span><span class="s2">&quot;id&quot;</span><span class="p">]</span>
-        <span class="n">name</span> <span class="o">=</span> <span class="n">resObject</span><span class="p">[</span><span class="s2">&quot;tracks&quot;</span><span class="p">][</span><span class="s2">&quot;items&quot;</span><span class="p">][</span><span class="mi">0</span><span class="p">][</span><span class="s2">&quot;name&quot;</span><span class="p">]</span>
+        <span class="n">name</span> <span class="o">=</span> <span class="n">songs</span><span class="p">[</span><span class="n">i</span><span class="p">]</span>
 
         <span class="c1"># going from song URI -&gt; audio features (https://developer.spotify.com/documentation/web-api/reference/tracks/get-audio-features/)</span>
         <span class="n">audioRequest</span> <span class="o">=</span> <span class="n">Request</span><span class="p">(</span><span class="s1">&#39;https://api.spotify.com/v1/audio-features/&#39;</span> <span class="o">+</span> <span class="n">songURI</span><span class="p">)</span>
@@ -13250,9 +13250,9 @@ div#notebook {
 0  https://api.spotify.com/v1/audio-analysis/4Qh4...       181787   
 1  https://api.spotify.com/v1/audio-analysis/1ijX...       183000   
 
-   time_signature                       name  
-0               4  Euphoria - Single Version  
-1               4        Rise Like a Phoenix  
+   time_signature                 name  
+0               4             Euphoria  
+1               4  Rise Like a Phoenix  
 </pre>
 </div>
 </div>
@@ -13271,7 +13271,7 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[31]:</div>
+<div class="prompt input_prompt">In&nbsp;[7]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">df</span><span class="o">.</span><span class="n">to_csv</span><span class="p">(</span><span class="sa">r</span><span class="s1">&#39;spotify_audio_features.csv&#39;</span><span class="p">)</span>
@@ -13292,7 +13292,7 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[32]:</div>
+<div class="prompt input_prompt">In&nbsp;[8]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="nb">print</span><span class="p">(</span><span class="s2">&quot;Number of Nulls: &quot;</span><span class="p">,</span> <span class="n">countNulls</span><span class="p">)</span>

@@ -16,6 +16,8 @@ import json
 import urllib.request
 from urllib.request import Request
 from pandas.io.json import json_normalize
+from unidecode import unidecode
+import pandas as pd
 import os
 
 
@@ -24,18 +26,22 @@ import os
 # In[15]:
 
 
-current_token = 'BQAd3a4twYsFseq_VJJ-UdI26pw2v00-iAVhdogSKN7S3H74YqHDDmvkP-XAwDaMPBOBEU5j2Sd-5jABb25UpHvnlkdk9I4MHu4VLIxHowN_CylKdLjSJHIVYKvmOxIWX6McJYFrUqBZHbprae0'
+current_token = 'BQDUqgTI688Fw7Fq87mVLuiAngFePetx9Ov7EwB0U3fjzdwaegZro9qZW_gUdRIRS8J4iMh1MPRzDB9HL6Vxoo1n6PLYHsPi24qyw3AIlhvrl2TPG1jpFHE4i2ciLQSkDOk81abTz-UrTy0zP7kFdMJjptPrIefoiw'
 
 
 # Here are some hard-coded data inputs:
 
 # In[28]:
 
+eurovision_df = pd.read_csv(os.path.join(os.pardir,'data',r'cleaned_wikipedia_songs.csv'))
 
-songs = ['Euphoria', 'Rise Like a Phoenix']
-artists = ['Loreen','Conchita Wurst']
+# songs = ['Euphoria', 'Rise Like a Phoenix']
+# artists = ['Loreen','Conchita Wurst']
+# print(eurovision_df.describe(include=['O']))
+songs = eurovision_df['song'].tolist()
+artists = eurovision_df['artist'].tolist()
 
-
+print('len=',len(songs),len(artists))
 # We also want to keep track of null-values (songs that aren't in the Spotify API):
 
 # In[29]:
@@ -68,7 +74,8 @@ for i in range(len(songs)):
         countNulls += 1
     else:
         songURI = resObject["tracks"]["items"][0]["id"]
-        name = resObject["tracks"]["items"][0]["name"]
+        # name = resObject["tracks"]["items"][0]["name"]
+        name = songs[i]
 
         # going from song URI -> audio features (https://developer.spotify.com/documentation/web-api/reference/tracks/get-audio-features/)
         audioRequest = Request('https://api.spotify.com/v1/audio-features/' + songURI)
@@ -92,8 +99,8 @@ print(df)
 
 # In[31]:
 
-
-df.to_csv(os.path.join('../data',r'spotify_audio_features.csv'))
+# requires running the file from within the data-wrangling directory
+df.to_csv(os.path.join(os.pardir,'data',r'spotify_audio_features.csv'))
 
 
 # ### # Nulls

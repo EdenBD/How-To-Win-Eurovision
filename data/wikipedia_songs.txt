@@ -1,4 +1,4 @@
-	country	artist	song	language	final-rank	points
+	country	artist	song	language	rank	points
 1nd Eurovision Song Contest 1956, Frankfurt, West Germany						
 1	 Netherlands	Jetty Paerl	"De vogels van Holland"	Dutch	-	-
 2	  Switzerland	Lys Assia	"Das alte Karussell"	German	-	-
@@ -69,7 +69,7 @@
 60	 Monaco	Colette Deréal	"Allons, allons les enfants"	French	10	6
 61	 Austria	Jimmy Makulis	"Sehnsucht"	German	15	1
 62	 Finland	Laila Kinnunen	"Valoa ikkunassa"	Finnish	10	6
-63	 Yugoslavia	Ljiljana Petrović	"Neke davne zvezde" (Неке давне звезде)	Serbian	8	9
+63	 Yugoslavia	Ljiljana Petrovi?	"Neke davne zvezde" (???? ????? ??????)	Serbian	8	9
 64	 Netherlands	Greetje Kauffeld	"Wat een dag"	Dutch	10	6
 65	 Sweden	Lill-Babs	"April, april"	Swedish	14	2
 66	 Germany	Lale Andersen	"Einmal sehen wir uns wieder"	German/French	13	3
@@ -93,7 +93,7 @@
 83	 France	Isabelle Aubret	"Un premier amour"	French	1	26
 84	 Norway	Inger Jacobsen	"Kom sol, kom regn"	Norwegian	10	2
 85	  Switzerland	Jean Philippe (2)	"Le retour"	French	10	2
-86	 Yugoslavia	Lola Novaković	"Ne pali svetlo u sumrak" (Не пали светло у сумрак)	Serbian	4	10
+86	 Yugoslavia	Lola Novakovi?	"Ne pali svetlo u sumrak" (?? ???? ?????? ? ??????)	Serbian	4	10
 87	 United Kingdom	Ronnie Carroll	"Ring-a-Ding Girl"	English	4	10
 88	 Luxembourg	Camillo Felgen (2)	"Petit bonhomme"	French	3	11
 89	 Italy	Claudio Villa	"Addio, addio"	Italian	9	3
@@ -149,7 +149,7 @@
 136	 Denmark	Birgit Brüel	"For din skyld"	Danish	7	10
 137	 Luxembourg	France Gall	"Poupée de cire, poupée de son"	French	1	32
 138	 Finland	Viktor Klimenko	"Aurinko laskee länteen"	Finnish	15	0
-139	 Yugoslavia	Vice Vukov (2)	"Čežnja"	Croatian	12	2
+139	 Yugoslavia	Vice Vukov (2)	"?ežnja"	Croatian	12	2
 140	  Switzerland	Yovanna	"Non – à jamais sans toi"	French	8	8
 11th Eurovision Song Contest 1966, Luxembourg City, Luxembourg						
 141	 Germany	Margot Eskens	"Die Zeiger der Uhr"	German	10	7
@@ -206,7 +206,7 @@
 189	 Ireland	Pat McGuigan	"Chance of a Lifetime"	English	4	18
 190	 Spain	Massiel	"La, la, la"	Spanish	1	29
 191	 Germany	Wenche Myhre	"Ein Hoch der Liebe"	German	6	11
-192	 Yugoslavia	Dubrovački trubaduri	"Jedan dan"	Croatian	7	8
+192	 Yugoslavia	Dubrova?ki trubaduri	"Jedan dan"	Croatian	7	8
 14th Eurovision Song Contest 1969, Madrid, Spain						
 193	 Yugoslavia	Ivan & M's	"Pozdrav svijetu"	Croatian (8 other)	13	5
 194	 Luxembourg	Romuald (2)	"Catherine"	French	11	7
@@ -254,7 +254,7 @@
 233	 Ireland	Angela Farrell	"One Day Love"	English	11	79
 234	 Netherlands	Saskia & Serge	"Tijd"	Dutch	6	85
 235	 Portugal	Tonicha	"Menina do alto da serra"	Portuguese	9	83
-236	 Yugoslavia	Krunoslav Slabinac	"Tvoj dječak je tužan"	Croatian	14	68
+236	 Yugoslavia	Krunoslav Slabinac	"Tvoj dje?ak je tužan"	Croatian	14	68
 237	 Finland	Markku Aro & Koivistolaiset	"Tie uuteen päivään"	Finnish	8	84
 238	 Norway	Hanne Krogh	"Lykken er..."	Norwegian	17	65
 17th Eurovision Song Contest 1972, Edinburgh, United Kingdom						
@@ -266,7 +266,7 @@
 244	 Norway	Grethe Kausland & Benny Borg	"Småting"	Norwegian	14	73
 245	 Portugal	Carlos Mendes (2)	"A festa da vida"	Portuguese	7	90
 246	  Switzerland	Véronique Müller	"C'est la chanson de mon amour"	French	8	88
-247	 Malta	Helen & Joseph	"L-imħabba"	Maltese	18	48
+247	 Malta	Helen & Joseph	"L-im?abba"	Maltese	18	48
 				(It./Sp./Germ./Engl.)		
 248	 Finland	Päivi Paunu & Kim Floor	"Muistathan"	Finnish	12	78
 249	 Austria	Milestones	"Falter im Wind"	German	5	100
@@ -288,7 +288,7 @@
 262	 Monaco	Marie	"Un train qui part"	French	8	85
 263	 Spain	Mocedades	"Eres tú"	Spanish	2	125
 264	  Switzerland	Patrick Juvet	"Je vais me marier, Marie"	French	12	79
-265	 Yugoslavia	Zdravko Čolić	"Gori vatra" (Гори ватра)	Serbian	15	65
+265	 Yugoslavia	Zdravko ?oli?	"Gori vatra" (???? ?????)	Serbian	15	65
 266	 Italy	Massimo Ranieri (2)	"Chi sarà con te"	Italian	13	74
 267	 Luxembourg	Anne-Marie David	"Tu te reconnaîtras"	French	1	129
 268	 Sweden	Nova feat. The Dolls	"You're Summer (You Never Tell Me No)"	English	5	94
@@ -296,16 +296,16 @@
 270	 Ireland	Maxi	"Do I Dream"	English	10	80
 271	 United Kingdom	Cliff Richard (2)	"Power to All Our Friends"	English	3	123
 272	 France	Martine Clémenceau	"Sans toi"	French	15	65
-273	 Israel	Ilanit	"Ey sham" (אי שם)	Hebrew	4	97
+273	 Israel	Ilanit	"Ey sham" (?? ??)	Hebrew	4	97
 19th Eurovision Song Contest 1974, Brighton, United Kingdom						
 274	 Finland	Carita	"Keep Me Warm"	English	13	4
 275	 United Kingdom	Olivia Newton-John	"Long Live Love"	English	4	14
 276	 Spain	Peret	"Canta y sé feliz"	Spanish	9	10
 277	 Norway	Anne-Karine Strøm feat. Bendik Singers (2)	"The First Day of Love"	English	14	3
 278	 Greece	Marinella	"Krasi, thalassa ke t' agori mou"	Greek	11	7
-			(Κρασί, θάλασσα και τ' αγόρι μου)			
-279	 Israel	Poogy	"Natati la khayay" (נתתי לה חיי)	Hebrew	7	11
-280	 Yugoslavia	Korni Grupa	"Moja generacija (Generacija '42)" (Моја генерација (Генерација '42))	Serbian	12	6
+			(?????, ??????? ??? ?' ????? ???)			
+279	 Israel	Poogy	"Natati la khayay" (???? ?? ???)	Hebrew	7	11
+280	 Yugoslavia	Korni Grupa	"Moja generacija (Generacija '42)" (???? ?????????? (?????????? '42))	Serbian	12	6
 281	 Sweden	ABBA	"Waterloo"	English	1	24
 282	 Luxembourg	Ireen Sheer	"Bye Bye I Love You"	French (English)	4	14
 283	 Monaco	Romuald (3)	"Celui qui reste et celui qui s'en va"	French	4	14
@@ -328,8 +328,8 @@
 299	 United Kingdom	The Shadows	"Let Me Be the One"	English	2	138
 300	 Malta	Renato	"Singing This Song"	English	12	32
 301	 Belgium	Ann Christy	"Gelukkig zijn"	Dutch/English	15	17
-302	 Israel	Shlomo Artzi	"At ve'ani" (את ואני)	Hebrew	11	40
-303	 Turkey	Semiha Yankı	"Seninle bir dakika"	Turkish	19	3
+302	 Israel	Shlomo Artzi	"At ve'ani" (?? ????)	Hebrew	11	40
+303	 Turkey	Semiha Yank?	"Seninle bir dakika"	Turkish	19	3
 304	 Monaco	Sophie	"Une chanson c'est une lettre"	French	13	22
 305	 Finland	Pihasoittajat	"Old Man Fiddle"	English	7	74
 306	 Portugal	Duarte Mendes	"Madrugada"	Portuguese	16	16
@@ -341,13 +341,13 @@
 311	  Switzerland	Peter, Sue & Marc (2)	"Djambo, Djambo"	English	4	91
 312	 Germany	Les Humphries Singers	"Sing Sang Song"	German	15	12
 				(title English)		
-313	 Israel	Chocolate, Menta, Mastik	"Emor shalom" (אמור שלום)	Hebrew	6	77
+313	 Israel	Chocolate, Menta, Mastik	"Emor shalom" (???? ????)	Hebrew	6	77
 314	 Luxembourg	Jürgen Marcus	"Chansons pour ceux qui s'aiment"	French	14	17
 315	 Belgium	Pierre Rapsat	"Judy et Cie"	French	8	68
 316	 Ireland	Red Hurley	"When"	English	10	54
 317	 Netherlands	Sandra Reemer (2)	"The Party's Over"	English	9	56
 318	 Norway	Anne-Karine Strøm (2)	"Mata Hari"	English	18	7
-319	 Greece	Mariza Koch	"Panagia mou, Panagia mou" (Παναγιά μου, Παναγιά μου)	Greek	13	20
+319	 Greece	Mariza Koch	"Panagia mou, Panagia mou" (??????? ???, ??????? ???)	Greek	13	20
 320	 Finland	Fredi (2) & Ystävät	"Pump-Pump"	English	11	44
 321	 Spain	Braulio	"Sobran las palabras"	Spanish	16	11
 322	 Italy	Al Bano & Romina Power	"We'll Live It All Again (Io rivivrei)"	English/Italian	7	69
@@ -366,8 +366,8 @@
 334	 Luxembourg	Anne-Marie B	"Frère Jacques"	French	16	17
 335	 Portugal	Os Amigos	"Portugal no coração"	Portuguese	14	18
 336	 United Kingdom	Lynsey de Paul & Mike Moran	"Rock Bottom"	English	2	121
-337	 Greece	Pascalis, Marianna, Robert & Bessy	"Mathima solfege" (Μάθημα σολφέζ)	Greek	5	92
-338	 Israel	Ilanit (2)	"Ahava hi shir lishnayim" (אהבה היא שיר לשניים)	Hebrew	11	49
+337	 Greece	Pascalis, Marianna, Robert & Bessy	"Mathima solfege" (?????? ??????)	Greek	5	92
+338	 Israel	Ilanit (2)	"Ahava hi shir lishnayim" (???? ??? ??? ??????)	Hebrew	11	49
 339	  Switzerland	Pepe Lienhard Band	"Swiss Lady"	German	6	71
 				(title English)		
 340	 Sweden	Forbes	"Beatles"	Swedish	18	2
@@ -392,10 +392,10 @@
 357	 Turkey	Nilüfer & Nazar	"Sevince"	Turkish	18	2
 358	 Germany	Ireen Sheer (2)	"Feuer"	German	6	84
 359	 Monaco	Caline & Olivier Toussaint	"Les jardins de Monaco"	French	4	107
-360	 Greece	Tania Tsanaklidou	"Charlie Chaplin" (Τσάρλυ Τσάπλιν)	Greek	8	66
+360	 Greece	Tania Tsanaklidou	"Charlie Chaplin" (?????? ???????)	Greek	8	66
 361	 Denmark	Mabel	"Boom boom"	Danish	16	13
 362	 Luxembourg	Baccara	"Parlez-vous français?"	French	7	73
-363	 Israel	Izhar Cohen & Alphabeta	"A-ba-ni-bi" (א-ב-ני-בי)	Hebrew	1	157
+363	 Israel	Izhar Cohen & Alphabeta	"A-ba-ni-bi" (?-?-??-??)	Hebrew	1	157
 364	 Austria	Springtime	"Mrs. Caroline Robinson"	German	15	14
 				(title English)		
 365	 Sweden	Björn Skifs	"Det blir alltid värre framåt natten"	Swedish	14	26
@@ -406,10 +406,10 @@
 369	 Ireland	Cathal Dunne	"Happy Man"	English	5	80
 370	 Finland	Katri Helena	"Katson sineen taivaan"	Finnish	14	38
 371	 Monaco	Laurent Vaguener	"Notre vie c'est la musique"	French	16	12
-372	 Greece	Elpida	"Sokrati" (Σωκράτη)	Greek	8	69
+372	 Greece	Elpida	"Sokrati" (???????)	Greek	8	69
 373	  Switzerland	Peter, Sue & Marc (3) & Pfuri, Gorps & Kniri	"Trödler und Co."	German	10	60
 374	 Germany	Dschinghis Khan	"Dschinghis Khan"	German	4	86
-375	 Israel	Milk and Honey	"Hallelujah" (הללויה)	Hebrew	1	125
+375	 Israel	Milk and Honey	"Hallelujah" (??????)	Hebrew	1	125
 376	 France	Anne-Marie David (2)	"Je suis l'enfant soleil"	French	3	106
 377	 Belgium	Micha Marah	"Hey nana"	Dutch	18	5
 378	 Luxembourg	Jeane Manson	"J'ai déjà vu ça dans tes yeux"	French	13	44
@@ -422,9 +422,9 @@
 25th Eurovision Song Contest 1980, The Hague, Netherlands						
 385	 Austria	Blue Danube	"Du bist Musik"	German	8	64
 386	 Turkey	Ajda Pekkan	"Pet'r Oil"	Turkish	15	23
-387	 Greece	Anna Vissi & Epikouri	"Autostop" (Ωτοστόπ)	Greek	13	30
+387	 Greece	Anna Vissi & Epikouri	"Autostop" (???????)	Greek	13	30
 388	 Luxembourg	Sophie & Magaly	"Papa pingouin"	French	9	56
-389	 Morocco	Samira Said	"Bitaqat hub" (بطاقة حب)	Arabic	18	7
+389	 Morocco	Samira Said	"Bitaqat hub" (????? ??)	Arabic	18	7
 390	 Italy	Alan Sorrenti	"Non so che darei"	Italian	6	87
 391	 Denmark	Bamses Venner	"Tænker altid på dig"	Danish	14	25
 392	 Sweden	Tomas Ledin	"Just nu!"	Swedish	10	47
@@ -443,10 +443,10 @@
 403	 Belgium	Telex	"Euro-Vision"	French	17	14
 26th Eurovision Song Contest 1981, Dublin, Ireland						
 404	 Austria	Marty Brem	"Wenn du da bist"	German	17	20
-405	 Turkey	Modern Folk Üçlüsü & Ayşegül	"Dönme dolap"	Turkish	18	9
+405	 Turkey	Modern Folk Üçlüsü & Ay?egül	"Dönme dolap"	Turkish	18	9
 406	 Germany	Lena Valaitis	"Johnny Blue"	German	2	132
 407	 Luxembourg	Jean-Claude Pascal (2)	"C'est peut-être pas l'Amérique"	French	11	41
-408	 Israel	Hakol Over Habibi	"Halayla" (הלילה)	Hebrew	7	56
+408	 Israel	Hakol Over Habibi	"Halayla" (?????)	Hebrew	7	56
 409	 Denmark	Tommy Seebach (2) & Debbie Cameron	"Krøller eller ej"	Danish	11	41
 410	 Yugoslavia	Vajta	"Lejla"	Bosnian	15	35
 411	 Finland	Riki Sorsa	"Reggae OK"	Finnish	16	27
@@ -461,8 +461,8 @@
 418	 Portugal	Carlos Paião	"Playback"	Portuguese	18	9
 				(title English)		
 419	 Belgium	Emly Starr	"Samson"	Dutch	13	40
-420	 Greece	Yiannis Dimitras	"Feggari kalokerino" (Φεγγάρι καλοκαιρινό)	Greek	8	55
-421	 Cyprus	Island	"Monika" (Μόνικα)	Greek	6	69
+420	 Greece	Yiannis Dimitras	"Feggari kalokerino" (??????? ???????????)	Greek	8	55
+421	 Cyprus	Island	"Monika" (??????)	Greek	6	69
 422	  Switzerland	Peter, Sue & Marc (4)	"Io senza te"	Italian	4	121
 423	 Sweden	Björn Skifs (2)	"Fångad i en dröm"	Swedish	10	50
 27th Eurovision Song Contest 1982, Harrogate, United Kingdom						
@@ -474,14 +474,14 @@
 428	 Turkey	Neco	"Hani?"	Turkish	15	20
 429	 Finland	Kojo	"Nuku pommiin"	Finnish	18	0
 430	  Switzerland	Arlette Zola	"Amour on t'aime"	French	3	97
-431	 Cyprus	Anna Vissi (2)	"Mono i agapi" (Μόνο η αγάπη)	Greek	5	85
+431	 Cyprus	Anna Vissi (2)	"Mono i agapi" (???? ? ?????)	Greek	5	85
 432	 Sweden	Chips	"Dag efter dag"	Swedish	8	67
 433	 Austria	Mess	"Sonntag"	German	9	57
 434	 Belgium	Stella	"Si tu aimes ma musique"	French	4	96
 435	 Spain	Lucía	"Él"	Spanish	10	52
 436	 Denmark	Brixx	"Video, video"	Danish	17	5
-437	 Yugoslavia	Aska	"Halo, halo" (Хало, хало)	Serbian	14	21
-438	 Israel	Avi Toledano	"Hora" (הורה)	Hebrew	2	100
+437	 Yugoslavia	Aska	"Halo, halo" (????, ????)	Serbian	14	21
+438	 Israel	Avi Toledano	"Hora" (????)	Hebrew	2	100
 439	 Netherlands	Bill van Dijk	"Jij en ik"	Dutch	16	8
 440	 Ireland	The Duskeys	"Here Today, Gone Tomorrow"	English	11	49
 441	 Germany	Nicole	"Ein bißchen Frieden"	German	1	161
@@ -495,14 +495,14 @@
 448	 Spain	Remedios Amaya	"¿Quién maneja mi barca?"	Spanish	19	0
 449	  Switzerland	Mariella Farré	"Io così non ci sto"	Italian	15	28
 450	 Finland	Ami Aspelund	"Fantasiaa"	Finnish	11	41
-451	 Greece	Christie Stassinopoulou	"Mou les" (Μου λες)	Greek	14	32
+451	 Greece	Christie Stassinopoulou	"Mou les" (??? ???)	Greek	14	32
 452	 Netherlands	Bernadette	"Sing Me a Song"	Dutch	7	66
 				(title English)		
-453	 Yugoslavia	Daniel	"Džuli" (Џули)	Montenegrin	4	125
-454	 Cyprus	Stavros & Constantina	"I agapi akoma zi" (Η αγάπη ακόμα ζει)	Greek	16	26
+453	 Yugoslavia	Daniel	"Džuli" (????)	Montenegrin	4	125
+454	 Cyprus	Stavros & Constantina	"I agapi akoma zi" (? ????? ????? ???)	Greek	16	26
 455	 Germany	Hoffmann & Hoffmann	"Rücksicht"	German	5	94
 456	 Denmark	Gry Johansen	"Kloden drejer"	Danish	17	16
-457	 Israel	Ofra Haza	"Khay" (חי)	Hebrew	2	136
+457	 Israel	Ofra Haza	"Khay" (??)	Hebrew	2	136
 458	 Portugal	Armando Gama	"Esta balada que te dou"	Portuguese	13	33
 459	 Austria	Westend	"Hurricane"	German	9	53
 				(title English)		
@@ -517,7 +517,7 @@
 				(title English)		
 466	 Norway	Dollie de Luxe	"Lenge leve livet"	Norwegian	17	29
 467	 United Kingdom	Belle & The Devotions	"Love Games"	English	7	63
-468	 Cyprus	Andy Paul	"Anna Maria Lena" (Άννα Μαρία Λένα)	Greek	15	31
+468	 Cyprus	Andy Paul	"Anna Maria Lena" (???? ????? ????)	Greek	15	31
 469	 Belgium	Jacques Zegers	"Avanti la vie"	French	5	70
 				(title partly Italian)		
 470	 Ireland	Linda Martin	"Terminal 3"	English	2	137
@@ -527,7 +527,7 @@
 				(title Italian)		
 474	 Austria	Anita	"Einfach weg"	German	19	5
 475	 Germany	Mary Roos (2)	"Aufrecht geh'n"	German	13	34
-476	 Turkey	Beş Yıl Önce On Yıl Sonra	"Halay"	Turkish	12	37
+476	 Turkey	Be? Y?l Önce On Y?l Sonra	"Halay"	Turkish	12	37
 477	 Finland	Kirka	"Hengaillaan"	Finnish	9	46
 478	  Switzerland	Rainy Day	"Welche Farbe hat der Sonnenschein?"	German	16	30
 479	 Italy	Alice & Franco Battiato	"I treni di Tozeur"	Italian (German)	5	70
@@ -535,15 +535,15 @@
 30th Eurovision Song Contest 1985, Gothenburg, Sweden						
 481	 Ireland	Maria Christian	"Wait Until the Weekend Comes"	English	6	91
 482	 Finland	Sonja Lumme	"Eläköön elämä"	Finnish	9	58
-483	 Cyprus	Lia Vissi	"To katalava arga" (Το κατάλαβα αργά)	Greek	16	15
+483	 Cyprus	Lia Vissi	"To katalava arga" (?? ???????? ????)	Greek	16	15
 484	 Denmark	Hot Eyes (2)	"Sku' du spørg' fra no'en?"	Danish	11	41
 485	 Spain	Paloma San Basilio	"La fiesta terminó"	Spanish	14	36
 486	 France	Roger Bens	"Femme dans ses rêves aussi"	French	10	56
-487	 Turkey	MFÖ	"Didai didai dai (Aşık oldum)"	Turkish	14	36
+487	 Turkey	MFÖ	"Didai didai dai (A??k oldum)"	Turkish	14	36
 488	 Belgium	Linda Lepomme	"Laat me nu gaan"	Dutch	19	7
 489	 Portugal	Adelaide	"Penso em ti, eu sei"	Portuguese	18	9
 490	 Germany	Wind	"Für alle"	German	2	105
-491	 Israel	Izhar Cohen (2)	"Olé, olé" (עולה, עולה)	Hebrew	5	93
+491	 Israel	Izhar Cohen (2)	"Olé, olé" (????, ????)	Hebrew	5	93
 				(title Spanish)		
 492	 Italy	Al Bano & Romina Power (2)	"Magic Oh Magic"	Italian	7	78
 				(title English)		
@@ -555,10 +555,10 @@
 497	 Austria	Gary Lux	"Kinder dieser Welt"	German	8	60
 498	 Luxembourg	Margo, Franck Olivier, Chris Roberts, Malcolm Roberts, Ireen Sheer (3) & Diane Solomon	"Children, Kinder, enfants"	French	13	37
 				(English/German)		
-499	 Greece	Takis Biniaris	"Miazoume" (Μοιάζουμε)	Greek	16	15
+499	 Greece	Takis Biniaris	"Miazoume" (?????????)	Greek	16	15
 31st Eurovision Song Contest 1986, Bergen, Norway						
 500	 Luxembourg	Sherisse Laurence	"L'amour de ma vie"	French	3	117
-501	 Yugoslavia	Doris Dragović	"Željo moja"	Croatian	11	49
+501	 Yugoslavia	Doris Dragovi?	"Željo moja"	Croatian	11	49
 502	 France	Cocktail Chic	"Européennes"	French	17	13
 503	 Norway	Ketil Stokkan	"Romeo"	Norwegian	12	44
 504	 United Kingdom	Ryder	"Runner in the Night"	English	7	72
@@ -568,11 +568,11 @@
 				English/Italian)		
 508	 Spain	Cadillac	"Valentino"	Spanish	10	51
 509	  Switzerland	Daniela Simmons	"Pas pour moi"	French	2	140
-510	 Israel	Moti Giladi & Sarai Tzuriel	"Yavo yom" (יבוא יום)	Hebrew	19	7
+510	 Israel	Moti Giladi & Sarai Tzuriel	"Yavo yom" (???? ???)	Hebrew	19	7
 511	 Ireland	Luv Bug	"You Can Count on Me"	English	4	96
 512	 Belgium	Sandra Kim	"J'aime la vie"	French	1	176
 513	 Germany	Ingrid Peters	"Über die Brücke geh'n"	German	8	62
-514	 Cyprus	Elpida (2)	"Tora zo" (Τώρα ζω)	Greek	20	4
+514	 Cyprus	Elpida (2)	"Tora zo" (???? ??)	Greek	20	4
 515	 Austria	Timna Brauer	"Die Zeit ist einsam"	German	18	12
 516	 Sweden	Lasse Holm & Monica Törnell	"E' de' det här du kallar kärlek?"	Swedish	5	78
 517	 Denmark	Lise Haavik	"Du er fuld af løgn"	Danish	6	77
@@ -581,7 +581,7 @@
 519	 Portugal	Dora	"Não sejas mau para mim"	Portuguese	14	28
 32nd Eurovision Song Contest 1987, Brussels, Belgium						
 520	 Norway	Kate Gulbrandsen	"Mitt liv"	Norwegian	9	65
-521	 Israel	Lazy Bums	"Shir habatlanim" (שיר הבטלנים)	Hebrew	8	73
+521	 Israel	Lazy Bums	"Shir habatlanim" (??? ???????)	Hebrew	8	73
 522	 Austria	Gary Lux (2)	"Nur noch Gefühl"	German	20	8
 523	 Iceland	Halla Margrét	"Hægt og hljótt"	Icelandic	16	28
 524	 Belgium	Liliane Saint-Pierre	"Soldiers of Love"	Dutch	11	56
@@ -590,14 +590,14 @@
 526	 Italy	Umberto Tozzi & Raf	"Gente di mare"	Italian	3	103
 527	 Portugal	Nevada	"Neste barco à vela"	Portuguese	18	15
 528	 Spain	Patricia Kraus	"No estás solo"	Spanish	19	10
-529	 Turkey	Seyyal Taner & Lokomotif	"Şarkım sevgi üstüne"	Turkish	22	0
-530	 Greece	Bang	"Stop" (Στοπ)	Greek	10	64
+529	 Turkey	Seyyal Taner & Lokomotif	"?ark?m sevgi üstüne"	Turkish	22	0
+530	 Greece	Bang	"Stop" (????)	Greek	10	64
 531	 Netherlands	Marcha	"Rechtop in de wind"	Dutch	5	83
 532	 Luxembourg	Plastic Bertrand	"Amour, amour"	French	21	4
 533	 United Kingdom	Rikki	"Only the Light"	English	13	47
 534	 France	Christine Minier	"Les mots d'amour n'ont pas de dimanche"	French	14	44
 535	 Germany	Wind (2)	"Lass die Sonne in dein Herz"	German	2	141
-536	 Cyprus	Alexia	"Aspro-mavro" (Άσπρο-μαύρο)	Greek	7	80
+536	 Cyprus	Alexia	"Aspro-mavro" (?????-?????)	Greek	7	80
 537	 Finland	Vicky Rosti feat. Boulevard	"Sata salamaa"	Finnish	15	32
 538	 Denmark	Anne-Cathrine Herdorf & Bandjo	"En lille melodi"	Danish	5	83
 539	 Ireland	Johnny Logan (2)	"Hold Me Now"	English	1	172
@@ -611,13 +611,13 @@
 546	 Turkey	MFÖ (2)	"Sufi"	Turkish (English)	15	37
 547	 Spain	La Década	"La chica que yo quiero (Made in Spain)"	Spanish (English)	11	58
 548	 Netherlands	Gerard Joling	"Shangri-La"	Dutch	9	70
-549	 Israel	Yardena Arazi	"Ben adam" (בן אדם)	Hebrew	7	85
+549	 Israel	Yardena Arazi	"Ben adam" (?? ???)	Hebrew	7	85
 550	  Switzerland	Céline Dion	"Ne partez pas sans moi"	French	1	137
 551	 Ireland	Jump the Gun	"Take Him Home"	English	8	79
 552	 Germany	Maxi & Chris Garden	"Lied für einen Freund"	German	14	48
 553	 Austria	Wilfried	"Lisa Mona Lisa"	German	21	0
 554	 Denmark	Kirsten & Søren (Hot Eyes) (3)	"Ka' du se hva' jeg sa'?"	Danish	3	92
-555	 Greece	Afrodite Fryda	"Kloun" (Κλόουν)	Greek	17	10
+555	 Greece	Afrodite Fryda	"Kloun" (??????)	Greek	17	10
 556	 Norway	Karoline Krüger	"For vår jord"	Norwegian	5	88
 557	 Belgium	Reynaert	"Laissez briller le soleil"	French	18	5
 558	 Luxembourg	Lara Fabian	"Croire"	French	4	90
@@ -627,7 +627,7 @@
 562	 Yugoslavia	Srebrna krila	"Mangup"	Croatian	6	87
 34th Eurovision Song Contest 1989, Lausanne, Switzerland						
 563	 Italy	Anna Oxa & Fausto Leali	"Avrei voluto"	Italian	9	56
-564	 Israel	Gili & Galit	"Derekh hamelekh" (דרך המלך)	Hebrew	12	50
+564	 Israel	Gili & Galit	"Derekh hamelekh" (??? ????)	Hebrew	12	50
 565	 Ireland	Kiev Connolly & The Missing Passengers	"The Real Me"	English	18	21
 566	 Netherlands	Justine Pelmelay	"Blijf zoals je bent"	Dutch	15	45
 567	 Turkey	Pan	"Bana bana"	Turkish	21	5
@@ -643,16 +643,16 @@
 				(title Italian)		
 577	 France	Nathalie Pâque	"J'ai volé la vie"	French	8	60
 578	 Spain	Nina	"Nacida para amar"	Spanish	6	88
-579	 Cyprus	Fani Polymeri & Yiannis Savvidakis	"Apopse as vrethume" (Απόψε ας βρεθούμε)	Greek	11	51
+579	 Cyprus	Fani Polymeri & Yiannis Savvidakis	"Apopse as vrethume" (????? ?? ????????)	Greek	11	51
 580	  Switzerland	Furbaz	"Viver senza tei"	Romansh	13	47
-581	 Greece	Marianna Efstratiou	"To diko sou asteri" (Το δικό σου αστέρι)	Greek	9	56
+581	 Greece	Marianna Efstratiou	"To diko sou asteri" (?? ???? ??? ??????)	Greek	9	56
 582	 Iceland	Daníel Ágúst Haraldsson	"Það sem enginn sér"	Icelandic	22	0
 583	 Germany	Nino de Angelo	"Flieger"	German	14	46
 584	 Yugoslavia	Riva	"Rock Me"	Croatian	1	137
 				(title English)		
 35th Eurovision Song Contest 1990, Zagreb, Yugoslavia						
 585	 Spain	Azúcar Moreno	"Bandido"	Spanish (English)	5	96
-586	 Greece	Christos Callow feat. Wave	"Horis skopo" (Χωρίς σκοπό)	Greek	19	11
+586	 Greece	Christos Callow feat. Wave	"Horis skopo" (????? ?????)	Greek	19	11
 587	 Belgium	Philippe Lafontaine	"Macédomienne"	French	12	46
 588	 Turkey	Kayahan	"Gözlerinin hapsindeyim"	Turkish	17	21
 589	 Netherlands	Maywood	"Ik wil alles met je delen"	Dutch	15	25
@@ -661,38 +661,38 @@
 592	 Iceland	Stjórnin	"Eitt lag enn"	Icelandic	4	124
 593	 Norway	Ketil Stokkan (2)	"Brandenburger Tor"	Norwegian	21	8
 				(title German)		
-594	 Israel	Rita	"Shara barkhovot" (שרה ברחובות)	Hebrew	18	16
+594	 Israel	Rita	"Shara barkhovot" (??? ???????)	Hebrew	18	16
 595	 Denmark	Lonnie Devantier	"Hallo hallo"	Danish	8	64
 596	  Switzerland	Egon Egemann	"Musik klingt in die Welt hinaus"	German	11	51
 597	 Germany	Chris Kempers & Daniel Kovac	"Frei zu leben"	German	9	60
 598	 France	Joëlle Ursull	"White and Black Blues"	French	2	132
 				(title English)		
-599	 Yugoslavia	Tajči	"Hajde da ludujemo"	Croatian	7	81
+599	 Yugoslavia	Taj?i	"Hajde da ludujemo"	Croatian	7	81
 600	 Portugal	Nucha	"Há sempre alguém"	Portuguese	20	9
-601	 Ireland	Liam Reilly	"Somewhere in Europe"	English	2	132
+601	 Ireland	Liam Reilly	"Somewhere in Europe"	English	3	132
 602	 Sweden	Edin-Ådahl	"Som en vind"	Swedish	16	24
 603	 Italy	Toto Cutugno	"Insieme: 1992"	Italian (English)	1	149
 604	 Austria	Simone	"Keine Mauern mehr"	German (English/	10	58
 				French/Croatian)		
-605	 Cyprus	Anastazio	"Milas poli" (Μιλάς πολύ)	Greek	14	36
+605	 Cyprus	Anastazio	"Milas poli" (????? ????)	Greek	14	36
 606	 Finland	Beat	"Fri?"	Swedish	21	8
 36th Eurovision Song Contest 1991, Rome, Italy						
-607	 Yugoslavia	Baby Doll	"Brazil" (Бразил)	Serbian	21	1
+607	 Yugoslavia	Baby Doll	"Brazil" (??????)	Serbian	21	1
 608	 Iceland	Stefán & Eyfi	"Draumur um Nínu (Nína)"	Icelandic	15	26
 609	 Malta	Georgina & Paul Giordimaina	"Could It Be"	English	6	106
-610	 Greece	Sophia Vossou	"I anixi" (Η άνοιξη)	Greek	13	36
+610	 Greece	Sophia Vossou	"I anixi" (? ??????)	Greek	13	36
 611	  Switzerland	Sandra Simó	"Canzone per te"	Italian	5	118
 612	 Austria	Thomas Forstner (2)	"Venedig im Regen"	German	22	0
 613	 Luxembourg	Sarah Bray	"Un baiser volé"	French	14	29
 614	 Sweden	Carola (2)	"Fångad av en stormvind"	Swedish	1	146
 615	 France	Amina	"C'est le dernier qui a parlé qui a raison"	French	2	146
-616	 Turkey	Can Uğurluer, İzel Çeliköz & Reyhan Karaca	"İki dakika"	Turkish	12	44
+616	 Turkey	Can U?urluer, ?zel Çeliköz & Reyhan Karaca	"?ki dakika"	Turkish	12	44
 617	 Ireland	Kim Jackson	"Could It Be That I'm in Love"	English	10	47
 618	 Portugal	Dulce Pontes	"Lusitana paixão"	Portuguese	8	62
 619	 Denmark	Anders Frandsen	"Lige der hvor hjertet slår"	Danish	19	8
 620	 Norway	Just 4 Fun	"Mrs. Thompson"	Norwegian	17	14
 				(title English)		
-621	 Israel	Duo Datz	"Kan" (כאן)	Hebrew	3	139
+621	 Israel	Duo Datz	"Kan" (???)	Hebrew	3	139
 622	 Finland	Kaija	"Hullu yö"	Finnish	20	6
 623	 Germany (United)	Atlantis 2000	"Dieser Traum darf niemals sterben"	German	18	10
 624	 Belgium	Clouseau	"Geef het op"	Dutch	16	23
@@ -704,14 +704,14 @@
 37th Eurovision Song Contest 1992, Malmö, Sweden						
 629	 Spain	Serafín Zubiri	"Todo esto es la música"	Spanish	14	37
 630	 Belgium	Morgane	"Nous, on veut des violons"	French	20	11
-631	 Israel	Dafna Dekel	"Ze rak sport" (זה רק ספורט)	Hebrew	6	85
-632	 Turkey	Aylin Vatankoş	"Yaz bitti"	Turkish	19	17
-633	 Greece	Cleopatra	"Olou tou kosmou i Elpida" (Όλου του κόσμου η Ελπίδα)	Greek	5	94
+631	 Israel	Dafna Dekel	"Ze rak sport" (?? ?? ?????)	Hebrew	6	85
+632	 Turkey	Aylin Vatanko?	"Yaz bitti"	Turkish	19	17
+633	 Greece	Cleopatra	"Olou tou kosmou i Elpida" (???? ??? ?????? ? ??????)	Greek	5	94
 634	 France	Kali	"Monté la riviè"	Antillean Creole/	8	73
 				French		
 635	 Sweden	Christer Björkman	"I morgon är en annan dag"	Swedish	22	9
 636	 Portugal	Dina	"Amor d'água fresca"	Portuguese	17	26
-637	 Cyprus	Evridiki	"Teriazoume" (Ταιριάζουμε)	Greek	11	57
+637	 Cyprus	Evridiki	"Teriazoume" (???????????)	Greek	11	57
 638	 Malta	Mary Spiteri	"Little Child"	English	3	123
 639	 Iceland	Heart 2 Heart	"Nei eða já"	Icelandic	7	80
 640	 Finland	Pave	"Yamma, yamma"	Finnish	23	4
@@ -723,7 +723,7 @@
 645	 Ireland	Linda Martin (2)	"Why Me?"	English	1	155
 646	 Denmark	Lotte Nilsson & Kenny Lübcke	"Alt det som ingen ser"	Danish	12	47
 647	 Italy	Mia Martini (2)	"Rapsodia"	Italian	4	111
-648	 Yugoslavia (Serbia and Montenegro)	Extra Nena	"Ljubim te pesmama" (Љубим те песмама)	Serbian	13	44
+648	 Yugoslavia (Serbia and Montenegro)	Extra Nena	"Ljubim te pesmama" (????? ?? ???????)	Serbian	13	44
 649	 Norway	Merethe Trøan	"Visjoner"	Norwegian	18	23
 650	 Germany	Wind (3)	"Träume sind für alle da"	German	16	27
 651	 Netherlands	Humphrey Campbell	"Wijs me de weg"	Dutch	9	67
@@ -733,7 +733,7 @@
 654	 Germany	Münchener Freiheit	"Viel zu weit"	German	18	18
 655	  Switzerland	Annie Cotton	"Moi, tout simplement"	French	3	148
 656	 Denmark	Tommy Seebach (3) Band	"Under stjernerne på himlen"	Danish	22	9
-657	 Greece	Katerina Garbi	"Ellada, hora tou fotos" (Ελλάδα, χώρα του φωτός)	Greek	9	64
+657	 Greece	Katerina Garbi	"Ellada, hora tou fotos" (??????, ???? ??? ?????)	Greek	9	64
 658	 Belgium	Barbara Dex	"Iemand als jij"	Dutch	25	3
 659	 Malta	William Mangion	"This Time"	English	8	69
 660	 Iceland	Inga	"Þá veistu svarið"	Icelandic	13	42
@@ -751,14 +751,14 @@
 671	 Netherlands	Ruth Jacott	"Vrede"	Dutch	6	92
 672	 Croatia	Put	"Don't Ever Cry"	Croatian (English)	15	31
 673	 Spain	Eva Santamaría	"Hombres"	Spanish	11	58
-674	 Cyprus	Zymboulakis & Van Beke	"Mi stamatas" (Μη σταματάς)	Greek	19	17
-675	 Israel	Lahakat Shiru	"Shiru" (שירו)	Hebrew (English)	24	4
+674	 Cyprus	Zymboulakis & Van Beke	"Mi stamatas" (?? ????????)	Greek	19	17
+675	 Israel	Lahakat Shiru	"Shiru" (????)	Hebrew (English)	24	4
 676	 Norway	Silje Vige	"Alle mine tankar"	Norwegian	5	120
 39th Eurovision Song Contest 1994, Dublin, Ireland						
 677	 Sweden	Marie Bergman & Roger Pontare	"Stjärnorna"	Swedish	13	48
 678	 Finland	CatCat	"Bye Bye Baby"	Finnish (English)	22	11
 679	 Ireland	Paul Harrington & Charlie McGettigan	"Rock 'n' Roll Kids"	English	1	226
-680	 Cyprus	Evridiki (2)	"Ime anthropos ki ego" (Είμαι άνθρωπος κι εγώ)	Greek	11	51
+680	 Cyprus	Evridiki (2)	"Ime anthropos ki ego" (????? ???????? ?? ???)	Greek	11	51
 681	 Iceland	Sigga	"Nætur"	Icelandic	12	49
 682	 United Kingdom	Frances Ruffelle	"We Will Be Free (Lonely Symphony)"	English	10	63
 683	 Croatia	Tony Cetinski	"Nek' ti bude ljubav sva"	Croatian	16	27
@@ -769,24 +769,24 @@
 688	 Malta	Chris & Moira	"More Than Love"	English	5	97
 689	 Netherlands	Willeke Alberti	"Waar is de zon"	Dutch	23	4
 690	 Germany	MeKaDo	"Wir geben 'ne Party"	German (English)	3	128
-691	 Slovakia	Martin Ďurinda & Tublatanka	"Nekonečná pieseň"	Slovak	19	15
-692	 Lithuania	Ovidijus Vyšniauskas	"Lopšinė mylimai"	Lithuanian	25	0
+691	 Slovakia	Martin ?urinda & Tublatanka	"Nekone?ná piese?"	Slovak	19	15
+692	 Lithuania	Ovidijus Vyšniauskas	"Lopšin? mylimai"	Lithuanian	25	0
 693	 Norway	Elisabeth Andreassen & Jan Werner Danielsen	"Duett"	Norwegian	6	76
 694	 Bosnia and Herzegovina	Alma & Dejan	"Ostani kraj mene"	Bosnian	15	39
-695	 Greece	Kostas Bigalis & The Sea Lovers	"To trehandiri (Diri diri)" (Το τρεχαντήρι (Ντίρι ντίρι))	Greek	14	44
+695	 Greece	Kostas Bigalis & The Sea Lovers	"To trehandiri (Diri diri)" (?? ?????????? (????? ?????))	Greek	14	44
 696	 Austria	Petra Frey	"Für den Frieden der Welt"	German	17	19
 697	 Spain	Alejandro Abad	"Ella no es ella"	Spanish	18	17
 698	 Hungary	Friderika	"Kinek mondjam el vétkeimet?"	Hungarian	4	122
-699	 Russia	Youddiph	"Vechnyy strannik" (Вечный странник)	Russian	9	70
+699	 Russia	Youddiph	"Vechnyy strannik" (?????? ????????)	Russian	9	70
 700	 Poland	Edyta Górniak	"To nie ja!"	Polish	2	166
 701	 France	Nina Morato	"Je suis un vrai garçon"	French	7	74
 40th Eurovision Song Contest 1995, Dublin, Ireland						
 702	 Poland	Justyna	"Sama"	Polish	18	15
 703	 Ireland	Eddie Friel	"Dreamin'"	English	14	44
 704	 Germany	Stone & Stone	"Verliebt in Dich"	German	23	1
-705	 Bosnia and Herzegovina	Davor Popović	"Dvadeset prvi vijek"	Bosnian	19	14
+705	 Bosnia and Herzegovina	Davor Popovi?	"Dvadeset prvi vijek"	Bosnian	19	14
 706	 Norway	Secret Garden	"Nocturne"	Norwegian	1	148
-707	 Russia	Philipp Kirkorov	"Kolybel'naya dlya vulkana" (Колыбельная для вулкана)	Russian	17	17
+707	 Russia	Philipp Kirkorov	"Kolybel'naya dlya vulkana" (??????????? ??? ???????)	Russian	17	17
 708	 Iceland	Bo Halldórsson	"Núna"	Icelandic	15	31
 709	 Austria	Stella Jones	"Die Welt dreht sich verkehrt"	German	13	67
 710	 Spain	Anabel Conde	"Vuelve conmigo"	Spanish	2	119
@@ -797,25 +797,25 @@
 715	 Belgium	Frédéric Etherlinck	"La voix est libre"	French	20	8
 716	 United Kingdom	Love City Groove	"Love City Groove"	English	10	76
 717	 Portugal	Tó Cruz	"Baunilha e chocolate"	Portuguese	21	5
-718	 Cyprus	Alexandros Panayi	"Sti fotia" (Στη φωτιά)	Greek	9	79
+718	 Cyprus	Alexandros Panayi	"Sti fotia" (??? ?????)	Greek	9	79
 719	 Sweden	Jan Johansen	"Se på mig"	Swedish	3	100
 720	 Denmark	Aud Wilken	"Fra Mols til Skagen"	Danish	5	92
 721	 Slovenia	Darja Švajger	"Prisluhni mi"	Slovene	7	84
-722	 Israel	Liora	"Amen" (אמן)	Hebrew	8	81
+722	 Israel	Liora	"Amen" (???)	Hebrew	8	81
 723	 Malta	Mike Spiteri	"Keep Me in Mind"	English	10	76
-724	 Greece	Elina Konstantopoulou	"Pia prosefhi" (Ποια προσευχή)	Greek	12	68
+724	 Greece	Elina Konstantopoulou	"Pia prosefhi" (???? ????????)	Greek	12	68
 				(Ancient Greek)		
 41st Eurovision Song Contest 1996, Oslo, Norway						
-725	 Turkey	Şebnem Paker	"Beşinci mevsim"	Turkish	12	57
+725	 Turkey	?ebnem Paker	"Be?inci mevsim"	Turkish	12	57
 726	 United Kingdom	Gina G	"Ooh Aah... Just a Little Bit"	English	8	77
 727	 Spain	Antonio Carbonell	"¡Ay, qué deseo!"	Spanish	20	17
 728	 Portugal	Lúcia Moniz	"O meu coração não tem cor"	Portuguese	6	92
-729	 Cyprus	Constantinos Christoforou	"Mono yia mas" (Μόνο για μας)	Greek	9	72
+729	 Cyprus	Constantinos Christoforou	"Mono yia mas" (???? ??? ???)	Greek	9	72
 730	 Malta	Miriam Christine	"In a Woman's Heart"	English	10	68
 731	 Croatia	Maja Blagdan	"Sveta ljubav"	Croatian	4	98
 732	 Austria	George Nussbaumer	"Weil's dr guat got"	Vorarlbergish German	10	68
 733	  Switzerland	Kathy Leander	"Mon cœur l'aime"	French	16	22
-734	 Greece	Marianna Efstratiou (2)	"Emis forame to himona anixiatika" (Εμείς φοράμε το χειμώνα ανοιξιάτικα)	Greek	14	36
+734	 Greece	Marianna Efstratiou (2)	"Emis forame to himona anixiatika" (????? ?????? ?? ??????? ???????????)	Greek	14	36
 735	 Estonia	Maarja-Liis Ilus & Ivo Linna	"Kaelakee hääl"	Estonian	5	94
 736	 Norway	Elisabeth Andreassen (2)	"I evighet"	Norwegian	2	114
 737	 France	Dan Ar Braz & L'Héritage des Celtes	"Diwanit bugale"	Breton	19	18
@@ -825,17 +825,17 @@
 741	 Ireland	Eimear Quinn	"The Voice"	English	1	162
 742	 Finland	Jasmine	"Niin kaunis on taivas"	Finnish	23	9
 743	 Iceland	Anna Mjöll	"Sjúbídú"	Icelandic	13	51
-744	 Poland	Kasia Kowalska	"Chcę znać swój grzech..."	Polish	15	31
-745	 Bosnia and Herzegovina	Amila Glamočak	"Za našu ljubav"	Bosnian	22	13
+744	 Poland	Kasia Kowalska	"Chc? zna? swój grzech..."	Polish	15	31
+745	 Bosnia and Herzegovina	Amila Glamo?ak	"Za našu ljubav"	Bosnian	22	13
 746	 Slovakia	Marcel Palonder	"Kým nás máš"	Slovak	18	19
 747	 Sweden	One More Time	"Den vilda"	Swedish	3	100
 42nd Eurovision Song Contest 1997, Dublin, Ireland						
-748	 Cyprus	Hara & Andreas Konstantinou	"Mana mou" (Μάνα μου)	Greek	5	98
-749	 Turkey	Şebnem Paker (2) & Grup Etnic	"Dinle"	Turkish	3	121
+748	 Cyprus	Hara & Andreas Konstantinou	"Mana mou" (???? ???)	Greek	5	98
+749	 Turkey	?ebnem Paker (2) & Grup Etnic	"Dinle"	Turkish	3	121
 750	 Norway	Tor Endresen	"San Francisco"	Norwegian (English)	24	0
 751	 Austria	Bettina Soriat	"One Step"	German (English)	21	12
 752	 Ireland	Marc Roberts	"Mysterious Woman"	English	2	157
-753	 Slovenia	Tanja Ribič	"Zbudi se"	Slovene	10	60
+753	 Slovenia	Tanja Ribi?	"Zbudi se"	Slovene	10	60
 754	  Switzerland	Barbara Berta	"Dentro di me"	Italian	22	5
 755	 Netherlands	Mrs. Einstein	"Niemand heeft nog tijd"	Dutch	22	5
 756	 Italy	Jalisse	"Fiumi di parole"	Italian	4	114
@@ -843,14 +843,14 @@
 758	 Germany	Bianca Shomburg	"Zeit"	German	18	22
 759	 Poland	Anna Maria Jopek	"Ale jestem"	Polish	11	54
 760	 Estonia	Maarja-Liis Ilus (2)	"Keelatud maa"	Estonian	8	82
-761	 Bosnia and Herzegovina	Alma Čardžić (2)	"Goodbye"	Bosnian	18	22
+761	 Bosnia and Herzegovina	Alma ?ardži? (2)	"Goodbye"	Bosnian	18	22
 				(title English)		
 762	 Portugal	Célia Lawson	"Antes do adeus"	Portuguese	24	0
 763	 Sweden	Blond	"Bara hon älskar mig"	Swedish	14	36
-764	 Greece	Marianna Zorba	"Horepse" (Χόρεψε)	Greek	12	39
+764	 Greece	Marianna Zorba	"Horepse" (??????)	Greek	12	39
 765	 Malta	Debbie Scerri	"Let Me Fly"	English	9	66
 766	 Hungary	V.I.P.	"Miért kell, hogy elmenj?"	Hungarian	12	39
-767	 Russia	Alla Pugacheva	"Primadonna" (Примадонна)	Russian	15	33
+767	 Russia	Alla Pugacheva	"Primadonna" (??????????)	Russian	15	33
 768	 Denmark	Kølig Kaj	"Stemmen i mit liv"	Danish	16	25
 769	 France	Fanny	"Sentiments songes"	French	7	95
 770	 Croatia	E.N.I.	"Probudi me"	Croatian	17	24
@@ -858,57 +858,57 @@
 772	 Iceland	Paul Oscar	"Minn hinsti dans"	Icelandic	20	18
 43rd Eurovision Song Contest 1998, Birmingham, United Kingdom						
 773	 Croatia	Danijela	"Neka mi ne svane"	Croatian	5	131
-774	 Greece	Thalassa	"Mia krifi evesthisia" (Μια κρυφή ευαισθησία)	Greek	20	12
+774	 Greece	Thalassa	"Mia krifi evesthisia" (??? ????? ??????????)	Greek	20	12
 775	 France	Marie Line	"Où aller"	French	24	3
 776	 Spain	Mikel Herzog	"¿Qué voy a hacer sin ti?"	Spanish	16	21
 777	  Switzerland	Gunvor	"Lass ihn"	German	25	0
 778	 Slovakia	Katarína Hasprová	"Modlitba"	Slovak	21	8
 779	 Poland	Sixteen	"To takie proste"	Polish	17	19
-780	 Israel	Dana International	"Diva" (דיווה)	Hebrew	1	172
+780	 Israel	Dana International	"Diva" (?????)	Hebrew	1	172
 781	 Germany	Guildo Horn feat. Die Orthopädischen Strümpfe	"Guildo hat euch lieb!"	German	7	86
 782	 Malta	Chiara	"The One That I Love"	English	3	165
 783	 Hungary	Charlie	"A holnap már nem lesz szomorú"	Hungarian	23	4
 784	 Slovenia	Vili Resnik	"Naj bogovi slišijo"	Slovene	18	17
 785	 Ireland	Dawn Martin	"Is Always Over Now?"	English	9	64
 786	 Portugal	Alma Lusa	"Se eu te pudesse abraçar"	Portuguese	12	36
-787	 Romania	Mălina Olinescu	"Eu cred"	Romanian	22	6
+787	 Romania	M?lina Olinescu	"Eu cred"	Romanian	22	6
 788	 United Kingdom	Imaani	"Where Are You?"	English	2	166
-789	 Cyprus	Michael Hajiyanni	"Genesis" (Γένεσις)	Greek	11	37
+789	 Cyprus	Michael Hajiyanni	"Genesis" (???????)	Greek	11	37
 790	 Netherlands	Edsilia Rombley	"Hemel en aarde"	Dutch	4	151
 791	 Sweden	Jill Johnson	"Kärleken är"	Swedish	10	53
 792	 Belgium	Mélanie Cohl	"Dis oui"	French	6	122
 793	 Finland	Edea	"Aava"	Finnish	15	22
 794	 Norway	Lars A. Fredriksen	"Alltid sommer"	Norwegian	8	79
 795	 Estonia	Koit Toome	"Mere lapsed"	Estonian	12	36
-796	 Turkey	Tüzmen	"Unutamazsın"	Turkish	14	25
-797	 Macedonia	Vlado Janevski	"Ne zori, zoro" (Не зори, зоро)	Macedonian	19	16
+796	 Turkey	Tüzmen	"Unutamazs?n"	Turkish	14	25
+797	 Macedonia	Vlado Janevski	"Ne zori, zoro" (?? ????, ????)	Macedonian	19	16
 44th Eurovision Song Contest 1999, Jerusalem, Israel						
-798	 Lithuania	Aistė	"Strazdas"	Samogitian	20	13
+798	 Lithuania	Aist?	"Strazdas"	Samogitian	20	13
 799	 Belgium	Vanessa Chinitor	"Like the Wind"	English	12	38
 800	 Spain	Lydia	"No quiero escuchar"	Spanish	23	1
-801	 Croatia	Doris Dragović (2)	"Marija Magdalena"	Croatian	4	118
+801	 Croatia	Doris Dragovi? (2)	"Marija Magdalena"	Croatian	4	118
 802	 United Kingdom	Precious	"Say It Again"	English	12	38
 803	 Slovenia	Darja Švajger (2)	"For a Thousand Years"	English	11	50
-804	 Turkey	Tuğba Önal & Grup Mistik	"Dön artık"	Turkish	16	21
+804	 Turkey	Tu?ba Önal & Grup Mistik	"Dön art?k"	Turkish	16	21
 805	 Norway	Van Eijk	"Living My Life Without You"	English	14	35
 806	 Denmark	Trine Jepsen & Michael Teschl	"This Time I Mean It"	English	8	71
 807	 France	Nayah	"Je veux donner ma voix"	French	19	14
 808	 Netherlands	Marlayne	"One Good Reason"	English	8	71
-809	 Poland	Mietek Szcześniak	"Przytul mnie mocno"	Polish	18	17
+809	 Poland	Mietek Szcze?niak	"Przytul mnie mocno"	Polish	18	17
 810	 Iceland	Selma	"All Out of Luck"	English	2	146
-811	 Cyprus	Marlain	"Tha'ne erotas" (Θα'ναι έρωτας)	Greek	22	2
+811	 Cyprus	Marlain	"Tha'ne erotas" (??'??? ??????)	Greek	22	2
 812	 Sweden	Charlotte Nilsson (Perrelli)	"Take Me to Your Heaven"	English	1	163
 813	 Portugal	Rui Bandeira	"Como tudo começou"	Portuguese	21	12
 814	 Ireland	The Mullans	"When You Need Me"	English	17	18
 815	 Austria	Bobbie Singer	"Reflection"	English	10	65
-816	 Israel	Eden	"Happy Birthday (Yom huledet)" (יום הולדת)	Hebrew/English	5	93
+816	 Israel	Eden	"Happy Birthday (Yom huledet)" (??? ?????)	Hebrew/English	5	93
 817	 Malta	Times Three	"Believe 'n Peace"	English	15	32
 818	 Germany	Sürpriz	"Reise nach Jerusalem – Kudüs'e seyahat"	German/Turkish/	3	140
 				English (Hebrew)		
 819	 Bosnia and Herzegovina	Dino & Béatrice	"Putnici"	Bosnian/French	7	86
 820	 Estonia	Evelin Samuel & Camille	"Diamond of Night"	English	6	90
 45th Eurovision Song Contest 2000, Stockholm, Sweden						
-821	 Israel	PingPong	"Sameakh" (שמח)	Hebrew (English)	22	7
+821	 Israel	PingPong	"Sameakh" (???)	Hebrew (English)	22	7
 822	 Netherlands	Linda Wagenmakers	"No Goodbyes"	English	13	40
 823	 United Kingdom	Nicki French	"Don't Play That Song Again"	English	16	28
 824	 Estonia	Ines	"Once in a Lifetime"	English	4	98
@@ -918,18 +918,18 @@
 828	 Norway	Charmed	"My Heart Goes Boom"	English	11	57
 829	 Russia	Alsou	"Solo"	English	2	155
 830	 Belgium	Nathalie Sorce	"Envie de vivre"	French	24	2
-831	 Cyprus	Voice	"Nomiza" (Νόμιζα)	Greek/Italian	21	8
+831	 Cyprus	Voice	"Nomiza" (??????)	Greek/Italian	21	8
 832	 Iceland	August & Telma	"Tell Me!"	English	12	45
 833	 Spain	Serafín Zubiri (2)	"Colgado de un sueño"	Spanish	18	18
 834	 Denmark	Olsen Brothers	"Fly on the Wings of Love"	English	1	195
 835	 Germany	Stefan Raab	"Wadde hadde dudde da?"	German/English	5	96
 836	  Switzerland	Jane Bogaert	"La vita cos'è?"	Italian	20	14
-837	 Croatia	Goran Karan	"Kad zaspu anđeli"	Croatian	9	70
+837	 Croatia	Goran Karan	"Kad zaspu an?eli"	Croatian	9	70
 838	 Sweden	Roger Pontare (2)	"When Spirits Are Calling My Name"	English	7	88
-839	 Macedonia	XXL	"100% te ljubam" (100% те љубам)	Macedonian/English	15	29
+839	 Macedonia	XXL	"100% te ljubam" (100% ?? ?????)	Macedonian/English	15	29
 840	 Finland	Nina Åström	"A Little Bit"	English	18	18
 841	 Latvia	Brainstorm	"My Star"	English	3	136
-842	 Turkey	Pınar Ayhan & The S.O.S.	"Yorgunum anla"	Turkish/English	10	59
+842	 Turkey	P?nar Ayhan & The S.O.S.	"Yorgunum anla"	Turkish/English	10	59
 843	 Ireland	Eamonn Toal	"Millennium of Love"	English	6	92
 844	 Austria	The Rounder Girls	"All to You"	English	14	34
 46th Eurovision Song Contest 2001, Copenhagen, Denmark						
@@ -937,7 +937,7 @@
 846	 Iceland	Two Tricky	"Angel"	English	22	3
 847	 Bosnia and Herzegovina	Nino Pršeš	"Hano"	Bosnian/English	14	29
 848	 Norway	Haldor Lægreid	"On My Own"	English	22	3
-849	 Israel	Tal Sondak	"En davar" (אין דבר)	Hebrew	16	25
+849	 Israel	Tal Sondak	"En davar" (??? ???)	Hebrew	16	25
 850	 Russia	Mumiy Troll	"Lady Alpine Blue"	English	12	37
 851	 Sweden	Friends	"Listen to Your Heartbeat"	English	5	100
 852	 Lithuania	Skamp	"You Got Style"	English/Lithuanian	13	35
@@ -965,16 +965,16 @@
 				(title Greek)		
 872	 Spain	Rosa	"Europe's Living a Celebration"	Spanish	7	81
 				(title English)		
-873	 Croatia	Vesna Pisarović	"Everything I Want"	English	11	44
+873	 Croatia	Vesna Pisarovi?	"Everything I Want"	English	11	44
 874	 Russia	Prime Minister	"Northern Girl"	English	10	55
-875	 Estonia	Sahlene	"Runaway"	English	3	111
-876	 Macedonia	Karolina	"Od nas zavisi" (Од нас зависи)	Macedonian	19	25
-877	 Israel	Sarit Hadad	"Light a Candle (Nadlik beyakhad ner)" (נדליק ביחד נר)	Hebrew/English	12	37
+875	 Estonia	Sahlene	"Runaway"	English	4	111
+876	 Macedonia	Karolina	"Od nas zavisi" (?? ??? ??????)	Macedonian	19	25
+877	 Israel	Sarit Hadad	"Light a Candle (Nadlik beyakhad ner)" (????? ???? ??)	Hebrew/English	12	37
 878	  Switzerland	Francine Jordi	"Dans le jardin de mon âme"	French	22	15
 879	 Sweden	Afro-Dite	"Never Let It Go"	English	8	72
 880	 Finland	Laura	"Addicted to You"	English	20	24
 881	 Denmark	Malene	"Tell Me Who You Are"	English	24	7
-882	 Bosnia and Herzegovina	Maja Tatić	"Na jastuku za dvoje" (На јастуку за двоје)	Serbian/English	13	33
+882	 Bosnia and Herzegovina	Maja Tati?	"Na jastuku za dvoje" (?? ??????? ?? ?????)	Serbian/English	13	33
 883	 Belgium	Sergio & The Ladies	"Sister"	English	13	33
 884	 France	Sandrine François	"Il faut du temps (Je me battrai pour ça)"	French	5	104
 885	 Germany	Corinna May	"I Can't Live Without Music"	English	21	17
@@ -995,9 +995,9 @@
 899	 Croatia	Claudia Beni	"Više nisam tvoja"	Croatian/English	15	29
 900	 Cyprus	Stelios Constantas	"Feeling Alive"	English	20	15
 901	 Germany	Lou	"Let's Get Happy"	English	11	53
-902	 Russia	t.A.T.u.	"Ne ver', ne boysya" (Не верь, не бойся)	Russian (English)	3	164
+902	 Russia	t.A.T.u.	"Ne ver', ne boysya" (?? ????, ?? ?????)	Russian (English)	3	164
 903	 Spain	Beth	"Dime"	Spanish	8	81
-904	 Israel	Lior Narkis	"Words for Love (Milim la'ahava)" (מילים לאהבה)	Hebrew/English	19	17
+904	 Israel	Lior Narkis	"Words for Love (Milim la'ahava)" (????? ?????)	Hebrew/English	19	17
 				(Gr./Fr./Sp.)		
 905	 Netherlands	Esther Hart	"One More Night"	English	13	45
 906	 United Kingdom	Jemini	"Cry Baby"	English	26	0
@@ -1006,7 +1006,7 @@
 908	 Greece	Mando	"Never Let You Go"	English	17	25
 909	 Norway	Jostein Hasselgård	"I'm Not Afraid to Move On"	English	4	123
 910	 France	Louisa Baïleche	"Monts et merveilles"	French	18	19
-911	 Poland	Ich Troje	"Keine Grenzen – Żadnych granic"	German/Polish/	7	90
+911	 Poland	Ich Troje	"Keine Grenzen – ?adnych granic"	German/Polish/	7	90
 				Russian		
 912	 Latvia	F.L.Y.	"Hello from Mars"	English	24	5
 913	 Belgium	Urban Trad	"Sanomi"	Imaginary	2	165
@@ -1019,22 +1019,22 @@
 919	 Belarus	Alexandra & Konstantin	"My Galileo"	English	-	-
 920	  Switzerland	Piero Esteriore & The Music Stars	"Celebrate!"	English	-	-
 921	 Latvia	Fomins & Kleins	"Dziesma par laimi"	Latvian	-	-
-922	 Israel	David D'Or	"To Believe (Leha'amin)" (להאמין)	Hebrew/English	-	-
+922	 Israel	David D'Or	"To Believe (Leha'amin)" (??????)	Hebrew/English	-	-
 923	 Andorra	Marta Roure	"Jugarem a estimar-nos"	Catalan	-	-
 924	 Portugal	Sofia Vitória	"Foi magia"	Portuguese	-	-
 925	 Malta	Julie & Ludwig	"On Again... Off Again"	English	12	50
 926	 Monaco	Maryon	"Notre planète"	French	-	-
 927	 Greece	Sakis Rouvas	"Shake It"	English	3	252
-928	 Ukraine	Ruslana	"Wild Dances (Dyki tantsi)" (Дикі танці)	English/Ukrainian	1	280
+928	 Ukraine	Ruslana	"Wild Dances (Dyki tantsi)" (???? ?????)	English/Ukrainian	1	280
 929	 Lithuania	Linas & Simona	"What's Happened to Your Love?"	English	-	-
 930	 Albania	Anjeza Shahini	"The Image of You"	English	7	106
 931	 Cyprus	Lisa Andreas	"Stronger Every Minute"	English	5	170
 932	 Macedonia	Toše Proeski	"Life"	English	14	47
 933	 Slovenia	Platin	"Stay Forever"	English	-	-
 934	 Estonia	Neiokõsõ	"Tii"	Võro	-	-
-935	 Croatia	Ivan Mikulić	"You Are the Only One"	English	12	50
+935	 Croatia	Ivan Mikuli?	"You Are the Only One"	English	12	50
 936	 Denmark	Tomas Thordarson	"Shame on You"	English	-	-
-937	 Serbia and Montenegro	Željko Joksimović & Ad Hoc Orchestra	"Lane moje" (Лане моје)	Serbian	2	263
+937	 Serbia and Montenegro	Željko Joksimovi? & Ad Hoc Orchestra	"Lane moje" (???? ????)	Serbian	2	263
 938	 Bosnia and Herzegovina	Deen	"In the Disco"	English	9	91
 939	 Netherlands	Re-Union	"Without You"	English	20	11
 940	 Spain	Ramón	"Para llenarme de ti"	Spanish	10	87
@@ -1055,23 +1055,23 @@
 954	 Austria	Global.Kryner	"Y así"	English/Spanish	-	-
 955	 Lithuania	Laura & The Lovers	"Little by Little"	English	-	-
 956	 Portugal	2B	"Amar"	Portuguese/English	-	-
-957	 Moldova	Zdob și Zdub	"Boonika bate doba"	English (Romanian)	6	148
+957	 Moldova	Zdob ?i Zdub	"Boonika bate doba"	English (Romanian)	6	148
 958	 Latvia	Walters & Kazha	"The War Is Not Over"	English (Sign language)	5	153
 959	 Monaco	Lise Darly	"Tout de moi"	French	-	-
-960	 Israel	Shiri Maimon	"Hasheket shenish'ar" (השקט שנשאר)	Hebrew/English	4	154
+960	 Israel	Shiri Maimon	"Hasheket shenish'ar" (???? ?????)	Hebrew/English	4	154
 961	 Belarus	Angelica Agurbash	"Love Me Tonight"	English	-	-
 962	 Netherlands	Glennis Grace	"My Impossible Dream"	English	-	-
 963	 Iceland	Selma (2)	"If I Had Your Love"	English	-	-
 964	 Belgium	Nuno Resende	"Le grand soir"	French	-	-
 965	 Estonia	Suntribe	"Let's Get Loud"	English	-	-
 966	 Norway	Wig Wam	"In My Dreams"	English	9	125
-967	 Romania	Luminița Anghel & Sistem	"Let Me Try"	English	3	158
+967	 Romania	Lumini?a Anghel & Sistem	"Let Me Try"	English	3	158
 968	 Hungary	Nox	"Forogj, világ!"	Hungarian	12	97
 969	 Finland	Geir Rönning	"Why"	English	-	-
-970	 Macedonia	Martin Vučić	"Make My Day"	English	17	52
+970	 Macedonia	Martin Vu?i?	"Make My Day"	English	17	52
 971	 Andorra	Marian van de Wal	"La mirada interior"	Catalan	-	-
 972	  Switzerland	Vanilla Ninja	"Cool Vibes"	English	8	128
-973	 Croatia	Boris Novković feat. Lado Members	"Vukovi umiru sami"	Croatian	11	115
+973	 Croatia	Boris Novkovi? feat. Lado Members	"Vukovi umiru sami"	Croatian	11	115
 974	 Bulgaria	Kaffe	"Lorraine"	English	-	-
 975	 Ireland	Donna & Joe	"Love?"	English	-	-
 976	 Slovenia	Omar Naber	"Stop"	Slovene	-	-
@@ -1081,12 +1081,12 @@
 980	 Malta	Chiara (2)	"Angel"	English	2	192
 981	 Turkey	Gülseren	"Rimi rimi ley"	Turkish	13	92
 982	 Albania	Ledina Çelo	"Tomorrow I Go"	English	16	53
-983	 Cyprus	Constantinos Christoforou (2)	"Ela ela (Come Baby)" (Έλα έλα)	English	18	46
+983	 Cyprus	Constantinos Christoforou (2)	"Ela ela (Come Baby)" (??? ???)	English	18	46
 				(title Greek)		
 984	 Spain	Son de Sol	"Brujería"	Spanish	21	28
-985	 Serbia and Montenegro	No Name	"Zauvijek moja" (Заувијек моја)	Montenegrin	7	137
+985	 Serbia and Montenegro	No Name	"Zauvijek moja" (???????? ????)	Montenegrin	7	137
 986	 Sweden	Martin Stenmarck	"Las Vegas"	English	19	30
-987	 Ukraine	GreenJolly	"Razom nas bahato (Nas ne podolaty)" (Разом нас багато (Нас не подолати))	Ukrainian/English	19	30
+987	 Ukraine	GreenJolly	"Razom nas bahato (Nas ne podolaty)" (????? ??? ?????? (??? ?? ????????))	Ukrainian/English	19	30
 				(6 other)		
 988	 Germany	Gracia	"Run & Hide"	English	24	4
 989	 Greece	Helena Paparizou	"My Number One"	English	1	230
@@ -1105,7 +1105,7 @@
 1000	 Ireland	Brian Kennedy	"Every Song Is a Cry for Love"	English	10	93
 1001	 Cyprus	Annet Artani	"Why Angels Cry"	English	-	-
 1002	 Monaco	Séverine Ferrer	"La coco-dance"	French (Tahitian)	-	-
-1003	 Macedonia	Elena Risteska	"Ninanajna" (Нинанајна)	English/Macedonian	12	56
+1003	 Macedonia	Elena Risteska	"Ninanajna" (?????????)	English/Macedonian	12	56
 1004	 Poland	Ich Troje (2) feat. Real McCoy	"Follow My Heart"	English/Pol./	-	-
 				Germ./Russ./Sp.		
 1005	 Russia	Dima Bilan	"Never Let You Go"	English	2	248
@@ -1121,7 +1121,7 @@
 1015	 Iceland	Silvia Night	"Congratulations"	English	-	-
 1016	  Switzerland	six4one	"If We All Give a Little"	English	16	30
 1017	 Moldova	Arsenium feat. Natalia Gordienko & Connect-R	"Loca"	English (Spanish)	20	22
-1018	 Israel	Eddie Butler	"Together We Are One (Ze hazman)" (זה הזמן)	Hebrew/English	23	4
+1018	 Israel	Eddie Butler	"Together We Are One (Ze hazman)" (?? ????)	Hebrew/English	23	4
 1019	 Latvia	Vocal Group Cosmos	"I Hear Your Heart"	English	16	30
 1020	 Norway	Christine Guldbrandsen	"Alvedansen"	Norwegian	14	36
 1021	 Spain	Las Ketchup	"Un Blodymary"	Spanish	21	18
@@ -1129,33 +1129,33 @@
 1022	 Malta	Fabrizio Faniello (2)	"I Do"	English	24	1
 1023	 Germany	Texas Lightning	"No No Never"	English	14	36
 1024	 Denmark	Sidsel Ben Semmane	"Twist of Love"	English	18	26
-1025	 Romania	Mihai Trăistariu	"Tornerò"	English/Italian	4	172
+1025	 Romania	Mihai Tr?istariu	"Tornerò"	English/Italian	4	172
 1026	 United Kingdom	Daz Sampson	"Teenage Life"	English	19	25
 1027	 Greece	Anna Vissi (3)	"Everything"	English	9	128
 1028	 France	Virginie Pouchain	"Il était temps"	French	22	5
 1029	 Croatia	Severina	"Moja štikla"	Croatian	12	56
 				(Italo-Dalmatian)		
 52nd Eurovision Song Contest 2007, Helsinki, Finland						
-1030	 Bulgaria	Elitsa Todorova & Stoyan Yankoulov	"Water (Voda)" (Вода)	Bulgarian	5	157
+1030	 Bulgaria	Elitsa Todorova & Stoyan Yankoulov	"Water (Voda)" (????)	Bulgarian	5	157
 1031	 Israel	Teapacks	"Push the Button"	English/French/	-	-
 				Hebrew		
 1032	 Cyprus	Evridiki (3)	"Comme ci, comme ça"	French	-	-
 1033	 Belarus	Koldun	"Work Your Magic"	English	6	145
 1034	 Iceland	Eiríkur Hauksson	"Valentine Lost"	English	-	-
 1035	 Georgia	Sopho	"Visionary Dream"	English	12	97
-1036	 Montenegro	Stevan Faddy	"'Ajde, kroči" ('Ајде, крочи)	Montenegrin	-	-
+1036	 Montenegro	Stevan Faddy	"'Ajde, kro?i" ('????, ?????)	Montenegrin	-	-
 1037	  Switzerland	DJ BoBo	"Vampires Are Alive"	English	-	-
 1038	 Moldova	Natalia Barbu	"Fight"	English	10	109
 1039	 Netherlands	Edsilia Rombley (2)	"On Top of the World"	English	-	-
 1040	 Albania	Frederik Ndoci	"Hear My Plea (Balada e gurit)"	English/Albanian	-	-
 1041	 Denmark	DQ	"Drama Queen"	English	-	-
-1042	 Croatia	Dragonfly feat. Dado Topić	"Vjerujem u ljubav"	Croatian/English	-	-
+1042	 Croatia	Dragonfly feat. Dado Topi?	"Vjerujem u ljubav"	Croatian/English	-	-
 1043	 Poland	The Jet Set	"Time to Party"	English	-	-
-1044	 Serbia	Marija Šerifović	"Molitva" (Молитва)	Serbian	1	268
+1044	 Serbia	Marija Šerifovi?	"Molitva" (???????)	Serbian	1	268
 1045	 Czech Republic	Kabát	"Malá dáma"	Czech	-	-
 1046	 Portugal	Sabrina	"Dança comigo (Vem ser feliz)"	Portuguese/English	-	-
 				(French/Spanish)		
-1047	 Macedonia	Karolina (2)	"Mojot svet" (Мојот свет)	Macedonian/English	14	73
+1047	 Macedonia	Karolina (2)	"Mojot svet" (????? ????)	Macedonian/English	14	73
 1048	 Norway	Guri Schanke	"Ven a bailar conmigo"	English	-	-
 				(title Spanish)		
 1049	 Malta	Olivia Lewis	"Vertigo"	English	-	-
@@ -1164,31 +1164,31 @@
 1052	 Estonia	Gerli Padar	"Partners in Crime"	English	-	-
 1053	 Belgium	The KMG's	"LovePower"	English	-	-
 1054	 Slovenia	Alenka Gotar	"Cvet z juga"	Slovene	15	66
-1055	 Turkey	Kenan Doğulu	"Shake It Up Şekerim"	English	4	163
+1055	 Turkey	Kenan Do?ulu	"Shake It Up ?ekerim"	English	4	163
 				(title partly Turkish)		
 1056	 Austria	Eric Papilaya	"Get a Life – Get Alive"	English	-	-
 1057	 Latvia	Bonaparti.lv	"Questa notte"	Italian	16	54
-1058	 Bosnia and Herzegovina	Marija Šestić	"Rijeka bez imena" (Ријека без имена)	Serbian	11	106
+1058	 Bosnia and Herzegovina	Marija Šesti?	"Rijeka bez imena" (?????? ??? ?????)	Serbian	11	106
 1059	 Spain	D'Nash	"I Love You Mi Vida"	Spanish (English)	20	43
 1060	 Ireland	Dervish	"They Can't Stop the Spring"	English	24	5
 1061	 Finland	Hanna	"Leave Me Alone"	English	17	53
 1062	 Lithuania	4Fun	"Love or Leave"	English	21	28
-1063	 Greece	Sarbel	"Yassou Maria" (Γειά σου Μαρία)	English	7	139
+1063	 Greece	Sarbel	"Yassou Maria" (???? ??? ?????)	English	7	139
 				(title Greek)		
 1064	 Sweden	The Ark	"The Worrying Kind"	English	18	51
 1065	 France	Les Fatals Picards	"L'amour à la française"	French/English	22	19
 				(Franglais)		
 1066	 Russia	Serebro	"Song #1"	English	3	207
 1067	 Germany	Roger Cicero	"Frauen regier'n die Welt"	German/English	19	49
-1068	 Ukraine	Verka Serduchka	"Dancing Lasha Tumbai" (Данцінґ Лаша Тумбай)	German/English/	2	235
+1068	 Ukraine	Verka Serduchka	"Dancing Lasha Tumbai" (??????? ???? ??????)	German/English/	2	235
 				Ukrainian/Russian		
 1069	 United Kingdom	Scooch	"Flying the Flag (For You)"	English	22	19
-1070	 Romania	Todomondo	"Liubi, Liubi, I Love You" (Люби, Люби, I love you)	English/It./Sp./	13	84
+1070	 Romania	Todomondo	"Liubi, Liubi, I Love You" (????, ????, I love you)	English/It./Sp./	13	84
 				Russ./Fr./Rom.		
 1071	 Armenia	Hayko	"Anytime You Need"	English/Armenian	8	138
 53rd Eurovision Song Contest 2008, Belgrade, Serbia						
-1072	 Montenegro	Stefan Filipović	"Zauvijek volim te" (Заувијек волим те)	Montenegrin	-	-
-1073	 Israel	Boaz	"The Fire in Your Eyes (Ke'ilu kan)" (כאילו כאן)	Hebrew/English	9	124
+1072	 Montenegro	Stefan Filipovi?	"Zauvijek volim te" (???????? ????? ??)	Montenegrin	-	-
+1073	 Israel	Boaz	"The Fire in Your Eyes (Ke'ilu kan)" (????? ???)	Hebrew/English	9	124
 1074	 Estonia	Kreisiraadio	"Leto svet"	Serbian	-	-
 				(German/Finnish)		
 1075	 Moldova	Geta Burlacu	"A Century of Love"	English	-	-
@@ -1202,7 +1202,7 @@
 				(Fr./Germ./It./Sp.)		
 1083	 Andorra	Gisela	"Casanova"	English (Catalan)	-	-
 1084	 Bosnia and Herzegovina	Laka	"Pokušaj"	Bosnian	10	110
-1085	 Armenia	Sirusho	"Qele, qele" (Քելե, քելե)	English/Armenian	4	199
+1085	 Armenia	Sirusho	"Qele, qele" (????, ????)	English/Armenian	4	199
 1086	 Netherlands	Hind	"Your Heart Belongs to Me"	English	-	-
 1087	 Finland	Teräsbetoni	"Missä miehet ratsastaa"	Finnish	22	35
 1088	 Romania	Nico & Vlad	"Pe-o margine de lume"	Romanian/Italian	20	45
@@ -1227,29 +1227,29 @@
 1106	 Malta	Morena	"Vodka"	English (Russian)	-	-
 1107	 Cyprus	Evdokia Kadi	"Femme fatale"	Greek	-	-
 				(title French)		
-1108	 Macedonia	Tamara, Vrčak & Adrijan	"Let Me Love You"	English	-	-
+1108	 Macedonia	Tamara, Vr?ak & Adrijan	"Let Me Love You"	English	-	-
 1109	 Portugal	Vânia Fernandes	"Senhora do mar (Negras águas)"	Portuguese	13	69
 1110	 United Kingdom	Andy Abraham	"Even If"	English	25	14
 1111	 Germany	No Angels	"Disappear"	English	23	14
 1112	 France	Sébastien Tellier	"Divine"	English/French	19	47
 1113	 Spain	Rodolfo Chikilicuatre	"Baila el chiki chiki"	Spanish/English	16	55
-1114	 Serbia	Jelena Tomašević feat. Bora Dugić	"Oro" (Оро)	Serbian	6	160
+1114	 Serbia	Jelena Tomaševi? feat. Bora Dugi?	"Oro" (???)	Serbian	6	160
 54th Eurovision Song Contest 2009, Moscow, Russia						
-1115	 Montenegro	Andrea Demirović	"Just Get Out of My Life"	English	-	-
+1115	 Montenegro	Andrea Demirovi?	"Just Get Out of My Life"	English	-	-
 1116	 Czech Republic	Gipsy.cz	"Aven Romale"	English (Romani)	-	-
 1117	 Belgium	Copycat	"Copycat"	English	-	-
 1118	 Belarus	Petr Elfimov	"Eyes That Never Lie"	English	-	-
 1119	 Sweden	Malena Ernman	"La voix"	English/French	21	33
-1120	 Armenia	Inga & Anush	"Jan jan (Nor par)" (Ջան ջան (Նոր պար))	English/Armenian	10	92
+1120	 Armenia	Inga & Anush	"Jan jan (Nor par)" (??? ??? (??? ???))	English/Armenian	10	92
 1121	 Andorra	Susanne Georgi	"La teva decisió (Get a Life)"	Catalan/English	-	-
 1122	  Switzerland	Lovebugs	"The Highest Heights"	English	-	-
 1123	 Turkey	Hadise	"Düm tek tek"	English	4	177
 				(title Turkish)		
-1124	 Israel	Noa & Mira Awad	"There Must Be Another Way (Einaikh)" (עינייך)	English/Hebrew/	16	53
+1124	 Israel	Noa & Mira Awad	"There Must Be Another Way (Einaikh)" (??????)	English/Hebrew/	16	53
 				Arabic		
 1125	 Bulgaria	Krassimir Avramov	"Illusion"	English	-	-
 1126	 Iceland	Yohanna	"Is It True?"	English	2	218
-1127	 Macedonia	Next Time	"Nešto što kje ostane" (Нешто што ќе остане)	Macedonian	-	-
+1127	 Macedonia	Next Time	"Nešto što kje ostane" (????? ??? ?? ??????)	Macedonian	-	-
 1128	 Romania	Elena	"The Balkan Girls"	English	19	40
 1129	 Finland	Waldo's People	"Lose Control"	English	25	22
 1130	 Portugal	Flor-de-Lis	"Todas as ruas do amor"	Portuguese	15	57
@@ -1258,12 +1258,12 @@
 1133	 Croatia	Igor Cukrov feat. Andrea	"Lijepa Tena"	Croatian	18	45
 1134	 Ireland	Sinéad Mulvey & Black Daisy	"Et Cetera"	English	-	-
 				(title Latin)		
-1135	 Latvia	Intars Busulis	"Probka" (Пробка)	Russian	-	-
-1136	 Serbia	Marko Kon & Milaan	"Cipela" (Ципела)	Serbian	-	-
+1135	 Latvia	Intars Busulis	"Probka" (??????)	Russian	-	-
+1136	 Serbia	Marko Kon & Milaan	"Cipela" (??????)	Serbian	-	-
 1137	 Poland	Lidia Kopania	"I Don't Wanna Leave"	English	-	-
 1138	 Norway	Alexander Rybak	"Fairytale"	English	1	387
 1139	 Cyprus	Christina Metaxa	"Firefly"	English	-	-
-1140	 Slovakia	Kamil Mikulčík & Nela Pocisková	"Leť tmou"	Slovak	-	-
+1140	 Slovakia	Kamil Mikul?ík & Nela Pocisková	"Le? tmou"	Slovak	-	-
 1141	 Denmark	Brinck	"Believe Again"	English	13	74
 1142	 Slovenia	Quartissimo feat. Martina	"Love Symphony (Simfonija)"	English/Slovene	-	-
 1143	 Hungary	Zoli Ádok	"Dance with Me"	English	-	-
@@ -1276,7 +1276,7 @@
 1150	 Estonia	Urban Symphony	"Rändajad"	Estonian	6	129
 1151	 Netherlands	The Toppers	"Shine"	English	-	-
 1152	 France	Patricia Kaas	"Et s'il fallait le faire"	French	8	107
-1153	 Russia	Anastasia Prikhodko	"Mamo" (Мамо)	Russian/Ukrainian	11	91
+1153	 Russia	Anastasia Prikhodko	"Mamo" (????)	Russian/Ukrainian	11	91
 1154	 Germany	Alex Swings Oscar Sings!	"Miss Kiss Kiss Bang"	English	20	35
 1155	 United Kingdom	Jade Ewen	"It's My Time"	English	5	173
 1156	 Spain	Soraya Arnelas	"La noche es para mí"	Spanish	24	23
@@ -1288,20 +1288,20 @@
 1161	 Finland	Kuunkuiskaajat	"Työlki ellää"	Finnish	-	-
 				(title Karelian dialect)		
 1162	 Latvia	Aisha	"What For?"	English	-	-
-1163	 Serbia	Milan Stanković	"Ovo je Balkan" (Oво je Балкан)	Serbian	13	72
-1164	 Bosnia and Herzegovina	Vukašin Brajić	"Thunder and Lightning"	English	17	51
-1165	 Poland	Marcin Mroziński	"Legenda"	English/Polish	-	-
+1163	 Serbia	Milan Stankovi?	"Ovo je Balkan" (O?? je ??????)	Serbian	13	72
+1164	 Bosnia and Herzegovina	Vukašin Braji?	"Thunder and Lightning"	English	17	51
+1165	 Poland	Marcin Mrozi?ski	"Legenda"	English/Polish	-	-
 1166	 Belgium	Tom Dice	"Me and My Guitar"	English	6	143
 1167	 Malta	Thea Garrett	"My Dream"	English	-	-
 1168	 Albania	Juliana Pasha	"It's All About You"	English	16	62
-1169	 Greece	Giorgos Alkaios & Friends	"OPA" (ΩΠΑ)	Greek	8	140
+1169	 Greece	Giorgos Alkaios & Friends	"OPA" (???)	Greek	8	140
 1170	 Portugal	Filipa Azevedo	"Há dias assim"	Portuguese	18	43
-1171	 Macedonia	Gjoko Taneski	"Jas ja imam silata" (Јас ја имам силата)	Macedonian	-	-
+1171	 Macedonia	Gjoko Taneski	"Jas ja imam silata" (??? ?? ???? ??????)	Macedonian	-	-
 1172	 Belarus	3+2 feat. Robert Wells	"Butterflies"	English	24	18
 1173	 Iceland	Hera Björk	"Je ne sais quoi"	English (French)	19	41
 1174	 Lithuania	InCulto	"Eastern European Funk"	English	-	-
 1175	 Armenia	Eva Rivas	"Apricot Stone"	English	7	141
-1176	 Israel	Harel Skaat	"Milim" (מילים)	Hebrew	14	71
+1176	 Israel	Harel Skaat	"Milim" (?????)	Hebrew	14	71
 1177	 Denmark	Chanée & n'evergreen	"In a Moment Like This"	English	4	149
 1178	  Switzerland	Michael von der Heide	"Il pleut de l'or"	French	-	-
 1179	 Sweden	Anna Bergendahl	"This Is My Life"	English	-	-
@@ -1311,7 +1311,7 @@
 1183	 Romania	Paula Seling & Ovi	"Playing with Fire"	English	3	162
 1184	 Slovenia	Ansambel Žlindra & Kalamari	"Narodnozabavni rock"	Slovene	-	-
 1185	 Ireland	Niamh Kavanagh (2)	"It's for You"	English	23	25
-1186	 Bulgaria	Miro	"Angel si ti (You Are an Angel)" (Ангел си ти)	Bulgarian/English	-	-
+1186	 Bulgaria	Miro	"Angel si ti (You Are an Angel)" (????? ?? ??)	Bulgarian/English	-	-
 1187	 Cyprus	Jon Lilygreen & The Islanders	"Life Looks Better in Spring"	English	21	27
 1188	 Croatia	Feminnem (2)	"Lako je sve"	Croatian	-	-
 1189	 Georgia	Sofia Nizharadze	"Shine"	English	9	136
@@ -1328,7 +1328,7 @@
 1198	 Albania	Aurela Gaçe	"Feel the Passion (Kënga ime)"	English/Albanian	-	-
 1199	 Armenia	Emmy	"Boom Boom"	English	-	-
 1200	 Turkey	Yüksek Sadakat	"Live It Up"	English	-	-
-1201	 Serbia	Nina Radojčić	"Čaroban" (Чаробан)	Serbian	14	85
+1201	 Serbia	Nina Radoj?i?	"?aroban" (???????)	Serbian	14	85
 1202	 Russia	Alexej Vorobjov	"Get You"	English (Russian)	16	77
 1203	  Switzerland	Anna Rossinelli	"In Love for a While"	English	25	19
 1204	 Georgia	Eldrine	"One More Day"	English	9	110
@@ -1349,13 +1349,13 @@
 1218	 Belgium	Witloof Bay	"With Love Baby"	English	-	-
 1219	 Slovakia	TWiiNS	"I'm Still Alive"	English	-	-
 1220	 Ukraine	Mika Newton	"Angel"	English	4	159
-1221	 Moldova	Zdob şi Zdub (2)	"So Lucky"	English	12	97
+1221	 Moldova	Zdob ?i Zdub (2)	"So Lucky"	English	12	97
 1222	 Sweden	Eric Saade	"Popular"	English	3	185
-1223	 Cyprus	Christos Mylordos	"San aggelos s'agapisa" (Σαν άγγελος σ'αγάπησα)	Greek	-	-
-1224	 Bulgaria	Poli Genova	"Na inat" (На инат)	Bulgarian	-	-
-1225	 Macedonia	Vlatko Ilievski	"Rusinka" (Русинкa)	Macedonian/English	-	-
+1223	 Cyprus	Christos Mylordos	"San aggelos s'agapisa" (??? ??????? ?'???????)	Greek	-	-
+1224	 Bulgaria	Poli Genova	"Na inat" (?? ????)	Bulgarian	-	-
+1225	 Macedonia	Vlatko Ilievski	"Rusinka" (??????a)	Macedonian/English	-	-
 				(Russian)		
-1226	 Israel	Dana International (2)	"Ding Dong" (דינג דונג)	Hebrew/English	-	-
+1226	 Israel	Dana International (2)	"Ding Dong" (???? ????)	Hebrew/English	-	-
 1227	 Slovenia	Maja Keuc	"No One"	English	13	96
 1228	 Romania	Hotel FM	"Change"	English	17	77
 1229	 Estonia	Getter Jaani	"Rockefeller Street"	English	24	44
@@ -1387,11 +1387,11 @@
 1252	 Russia	Buranovskiye Babushki	"Party for Everybody"	Udmurt (English)	2	259
 1253	 Hungary	Compact Disco	"Sound of Our Hearts"	English	24	19
 1254	 Austria	Trackshittaz	"Woki mit deim Popo"	Mühlviertel German	-	-
-1255	 Moldova	Pasha Parfeny	"Lăutar"	English	11	81
+1255	 Moldova	Pasha Parfeny	"L?utar"	English	11	81
 				(title Romanian)		
 1256	 Ireland	Jedward (2)	"Waterline"	English	19	46
-1257	 Serbia	Željko Joksimović (2)	"Nije ljubav stvar" (Није љубав ствар)	Serbian	3	214
-1258	 Macedonia	Kaliopi	"Crno i belo" (Црно и бело)	Macedonian	13	71
+1257	 Serbia	Željko Joksimovi? (2)	"Nije ljubav stvar" (???? ????? ?????)	Serbian	3	214
+1258	 Macedonia	Kaliopi	"Crno i belo" (???? ? ????)	Macedonian	13	71
 1259	 Netherlands	Joan Franka	"You and Me"	English	-	-
 1260	 Malta	Kurt Calleja	"This Is the Night"	English	21	41
 1261	 Belarus	Litesound	"We Are the Heroes"	English	-	-
@@ -1399,7 +1399,7 @@
 1263	 Ukraine	Gaitana	"Be My Guest"	English	15	65
 1264	 Bulgaria	Sofi Marinova	"Love Unlimited"	Bulgarian (10 other)	-	-
 1265	 Slovenia	Eva Boto	"Verjamem"	Slovene	-	-
-1266	 Croatia	Nina Badrić	"Nebo"	Croatian	-	-
+1266	 Croatia	Nina Badri?	"Nebo"	Croatian	-	-
 1267	 Sweden	Loreen	"Euphoria"	English	1	372
 1268	 Georgia	Anri Jokhadze	"I'm a Joker"	English/Georgian	-	-
 1269	 Turkey	Can Bonomo	"Love Me Back"	English	7	112
@@ -1423,25 +1423,25 @@
 1286	 Russia	Dina Garipova	"What If"	English	5	174
 1287	 Ukraine	Zlata Ognevich	"Gravity"	English	3	214
 1288	 Netherlands	Anouk	"Birds"	English	9	114
-1289	 Montenegro	Who See	"Igranka" (Игранка)	Montenegrin	-	-
+1289	 Montenegro	Who See	"Igranka" (???????)	Montenegrin	-	-
 1290	 Lithuania	Andrius Pojavis	"Something"	English	22	17
 1291	 Belarus	Alyona Lanskaya	"Solayoh"	English	16	48
 1292	 Moldova	Aliona Moon	"O mie"	Romanian	11	71
 1293	 Ireland	Ryan Dolan	"Only Love Survives"	English	26	5
-1294	 Cyprus	Despina Olympiou	"An me thimase" (Aν με θυμάσαι)	Greek	-	-
+1294	 Cyprus	Despina Olympiou	"An me thimase" (A? ?? ???????)	Greek	-	-
 1295	 Belgium	Roberto Bellarosa	"Love Kills"	English	12	71
-1296	 Serbia	Moje 3	"Ljubav je svuda" (Љубав је свуда)	Serbian	-	-
+1296	 Serbia	Moje 3	"Ljubav je svuda" (????? ?? ?????)	Serbian	-	-
 1297	 Latvia	PeR	"Here We Go"	English	-	-
 1298	 San Marino	Valentina Monetta (2)	"Crisalide (Vola)"	Italian	-	-
-1299	 Macedonia	Esma & Lozano	"Pred da se razdeni" (Пред да се раздени)	Macedonian/Romani	-	-
+1299	 Macedonia	Esma & Lozano	"Pred da se razdeni" (???? ?? ?? ???????)	Macedonian/Romani	-	-
 1300	 Azerbaijan	Farid Mammadov	"Hold Me"	English	2	234
 1301	 Finland	Krista Siegfrids	"Marry Me"	English	24	13
 1302	 Malta	Gianluca	"Tomorrow"	English	8	120
-1303	 Bulgaria	Elitsa Todorova & Stoyan Yankoulov (2)	"Samo shampioni" (Само шампиони)	Bulgarian	-	-
+1303	 Bulgaria	Elitsa Todorova & Stoyan Yankoulov (2)	"Samo shampioni" (???? ????????)	Bulgarian	-	-
 1304	 Iceland	Eythor Ingi	"Ég á líf"	Icelandic	17	47
 1305	 Greece	Koza Mostra feat. Agathon Iakovidis	"Alcohol Is Free"	Greek	6	152
 				(title English)		
-1306	 Israel	Moran Mazor	"Rak bishvilo" (רק בשבילו)	Hebrew	-	-
+1306	 Israel	Moran Mazor	"Rak bishvilo" (?? ??????)	Hebrew	-	-
 1307	 Armenia	Dorians	"Lonely Planet"	English	18	41
 1308	 Hungary	ByeAlex	"Kedvesem (Zoohacker Remix)"	Hungarian	10	84
 1309	 Norway	Margaret Berger	"I Feed You My Love"	English	4	191
@@ -1470,13 +1470,13 @@
 1331	 San Marino	Valentina Monetta (3)	"Maybe"	English	24	14
 1332	 Portugal	Suzy	"Quero ser tua"	Portuguese	-	-
 1333	 Netherlands	The Common Linnets	"Calm After the Storm"	English	2	238
-1334	 Montenegro	Sergej Ćetković	"Moj svijet" (Мој свијет)	Montenegrin	19	37
+1334	 Montenegro	Sergej ?etkovi?	"Moj svijet" (??? ??????)	Montenegrin	19	37
 1335	 Hungary	András Kállay-Saunders	"Running"	English	5	143
 1336	 Malta	Firelight	"Coming Home"	English	23	32
 1337	 Israel	Mei Finegold	"Same Heart"	English/Hebrew	-	-
 1338	 Norway	Carl Espen	"Silent Storm"	English	8	88
 1339	 Georgia	The Shin & Mariko	"Three Minutes to Earth"	English	-	-
-1340	 Poland	Donatan & Cleo	"My Słowianie – We Are Slavic"	Polish/English	14	62
+1340	 Poland	Donatan & Cleo	"My S?owianie – We Are Slavic"	Polish/English	14	62
 1341	 Austria	Conchita Wurst	"Rise Like a Phoenix"	English	1	290
 1342	 Lithuania	Vilija	"Attention"	English	-	-
 1343	 Finland	Softengine	"Something Better"	English	11	72
@@ -1485,7 +1485,7 @@
 1346	 Macedonia	Tijana	"To the Sky"	English	-	-
 1347	  Switzerland	Sebalter	"Hunter of Stars"	English	13	64
 1348	 Greece	Freaky Fortune feat. RiskyKidd	"Rise Up"	English	20	35
-1349	 Slovenia	Tinkara Kovač	"Round and Round (Spet)"	English/Slovene	25	9
+1349	 Slovenia	Tinkara Kova?	"Round and Round (Spet)"	English/Slovene	25	9
 1350	 Romania	Paula Seling (2) & Ovi (2)	"Miracle"	English	12	72
 1351	 Germany	Elaiza	"Is It Right"	English	18	39
 1352	 France	Twin Twin	"Moustache"	French	26	2
@@ -1509,12 +1509,12 @@
 1368	 Russia	Polina Gagarina	"A Million Voices"	English	2	303
 1369	 Denmark	Anti Social Media	"The Way You Are"	English	-	-
 1370	 Albania	Elhaida Dani	"I'm Alive"	English	17	34
-1371	 Romania	Voltaj	"De la capăt (All Over Again)"	Romanian/English	15	35
+1371	 Romania	Voltaj	"De la cap?t (All Over Again)"	Romanian/English	15	35
 1372	 Georgia	Nina Sublatti	"Warrior"	English	11	51
-1373	 Lithuania	Monika Linkytė & Vaidas Baumila	"This Time"	English	18	30
+1373	 Lithuania	Monika Linkyt? & Vaidas Baumila	"This Time"	English	18	30
 1374	 Ireland	Molly Sterling	"Playing with Numbers"	English	-	-
 1375	 San Marino	Anita Simoncini & Michele Perniola	"Chain of Lights"	English	-	-
-1376	 Montenegro	Knez	"Adio" (Адио)	Montenegrin	13	44
+1376	 Montenegro	Knez	"Adio" (????)	Montenegrin	13	44
 1377	 Malta	Amber	"Warrior"	English	-	-
 1378	 Norway	Mørland & Debrah Scarlett	"A Monster Like Me"	English	8	102
 1379	 Portugal	Leonor Andrade	"Há um mar que nos separa"	Portuguese	-	-
@@ -1527,7 +1527,7 @@
 1386	  Switzerland	Mélanie René	"Time to Shine"	English	-	-
 1387	 Cyprus	John Karayiannis	"One Thing I Should Have Done"	English	22	11
 1388	 Slovenia	Maraaya	"Here for You"	English	14	39
-1389	 Poland	Monika Kuszyńska	"In the Name of Love"	English	23	10
+1389	 Poland	Monika Kuszy?ska	"In the Name of Love"	English	23	10
 1390	 France	Lisa Angell	"N'oubliez pas"	French	25	4
 1391	 United Kingdom	Electro Velvet	"Still in Love with You"	English	24	5
 1392	 Australia	Guy Sebastian	"Tonight Again"	English	5	196
@@ -1541,12 +1541,12 @@
 				(Pontic Greek)		
 1399	 Moldova	Lidia Isac	"Falling Stars"	English	-	-
 1400	 Hungary	Freddie	"Pioneer"	English	19	108
-1401	 Croatia	Nina Kraljić	"Lighthouse"	English	23	73
+1401	 Croatia	Nina Kralji?	"Lighthouse"	English	23	73
 1402	 Netherlands	Douwe Bob	"Slow Down"	English	11	153
 1403	 Armenia	Iveta Mukuchyan	"LoveWave"	English	7	249
 1404	 San Marino	Serhat	"I Didn't Know"	English	-	-
 1405	 Russia	Sergey Lazarev	"You Are the Only One"	English	3	491
-1406	 Czech Republic	Gabriela Gunčíková	"I Stand"	English	25	41
+1406	 Czech Republic	Gabriela Gun?íková	"I Stand"	English	25	41
 1407	 Cyprus	Minus One	"Alter Ego"	English	21	96
 				(title Latin)		
 1408	 Austria	Zoë	"Loin d'ici"	French	13	151
@@ -1557,13 +1557,13 @@
 1413	 Bosnia and Herzegovina	Dalal & Deen (2) feat. Ana Rucner & Jala	"Ljubav je"	Bosnian	-	-
 1414	 Malta	Ira Losco (2)	"Walk on Water"	English	12	153
 1415	 Latvia	Justs	"Heartbeat"	English	15	132
-1416	 Poland	Michał Szpak	"Color of Your Life"	English	8	229
+1416	 Poland	Micha? Szpak	"Color of Your Life"	English	8	229
 1417	  Switzerland	Rykka	"The Last of Our Kind"	English	-	-
 1418	 Israel	Hovi Star	"Made of Stars"	English	14	135
 1419	 Belarus	Ivan	"Help You Fly"	English	-	-
-1420	 Serbia	ZAA Sanja Vučić	"Goodbye (Shelter)"	English	18	115
+1420	 Serbia	ZAA Sanja Vu?i?	"Goodbye (Shelter)"	English	18	115
 1421	 Ireland	Nicky Byrne	"Sunlight"	English	-	-
-1422	 Macedonia	Kaliopi (2)	"Dona" (Дона)	Macedonian	-	-
+1422	 Macedonia	Kaliopi (2)	"Dona" (????)	Macedonian	-	-
 1423	 Lithuania	Donny Montell (2)	"I've Been Waiting for This Night"	English	9	200
 1424	 Australia	Dami Im	"Sound of Silence"	English	2	511
 1425	 Slovenia	ManuElla	"Blue and Red"	English	-	-
@@ -1586,12 +1586,12 @@
 1441	 Australia	Isaiah	"Don't Come Easy"	English	9	173
 1442	 Albania	Lindita	"World"	English	-	-
 1443	 Belgium	Blanche	"City Lights"	English	4	363
-1444	 Montenegro	Slavko Kalezić	"Space"	English	-	-
+1444	 Montenegro	Slavko Kalezi?	"Space"	English	-	-
 1445	 Finland	Norma John	"Blackbird"	English	-	-
 1446	 Azerbaijan	Dihaj	"Skeletons"	English	14	120
 1447	 Portugal	Salvador Sobral	"Amar pelos dois"	Portuguese	1	758
 1448	 Greece	Demy	"This Is Love"	English	19	77
-1449	 Poland	Kasia Moś	"Flashlight"	English	22	64
+1449	 Poland	Kasia Mo?	"Flashlight"	English	22	64
 1450	 Moldova	SunStroke Project (2)	"Hey Mamma"	English	3	374
 1451	 Iceland	Svala	"Paper"	English	-	-
 1452	 Czech Republic	Martina Bárta	"My Turn"	English	-	-
@@ -1599,9 +1599,9 @@
 1454	 Armenia	Artsvik	"Fly with Me"	English	18	79
 1455	 Slovenia	Omar Naber (2)	"On My Way"	English	-	-
 1456	 Latvia	Triana Park	"Line"	English	-	-
-1457	 Serbia	Tijana Bogićević	"In Too Deep"	English	-	-
+1457	 Serbia	Tijana Bogi?evi?	"In Too Deep"	English	-	-
 1458	 Austria	Nathan Trent	"Running on Air"	English	16	93
-1459	 Macedonia	Jana Burčeska	"Dance Alone"	English	-	-
+1459	 Macedonia	Jana Bur?eska	"Dance Alone"	English	-	-
 1460	 Malta	Claudia Faniello	"Breathlessly"	English	-	-
 1461	 Romania	Ilinca feat. Alex Florea	"Yodel It!"	English	7	282
 1462	 Netherlands	O'G3NE	"Lights and Shadows"	English	11	150
@@ -1613,7 +1613,7 @@
 1467	 Croatia	Jacques Houdek	"My Friend"	English/Italian	13	128
 1468	 Norway	Jowst	"Grab the Moment"	English	10	158
 1469	  Switzerland	Timebelle	"Apollo"	English	-	-
-1470	 Belarus	Naviband	"Story of My Life (Historyja majho žyccia)" (Гісторыя майго жыцця)	Belarusian	17	83
+1470	 Belarus	Naviband	"Story of My Life (Historyja majho žyccia)" (???????? ????? ?????)	Belarusian	17	83
 1471	 Bulgaria	Kristian Kostov	"Beautiful Mess"	English	2	615
 1472	 Lithuania	Fusedmarc	"Rain of Revolution"	English	-	-
 1473	 Estonia	Koit Toome (2) & Laura	"Verona"	English	-	-
@@ -1631,7 +1631,7 @@
 1483	 Albania	Eugent Bushpepa	"Mall"	Albanian	11	184
 1484	 Belgium	Sennek	"A Matter of Time"	English	-	-
 1485	 Czech Republic	Mikolas Josef	"Lie to Me"	English	6	281
-1486	 Lithuania	Ieva Zasimauskaitė	"When We're Old (Kol myliu)"	English (Lithuanian)	12	181
+1486	 Lithuania	Ieva Zasimauskait?	"When We're Old (Kol myliu)"	English (Lithuanian)	12	181
 1487	 Israel	Netta	"Toy"	English (Hebrew/Japanese)	1	529
 1488	 Belarus	Alekseev	"Forever"	English	-	-
 1489	 Estonia	Elina Nechayeva	"La forza"	Italian	8	245
@@ -1639,29 +1639,29 @@
 1491	 Macedonia	Eye Cue	"Lost and Found"	English	-	-
 1492	 Croatia	Franka	"Crazy"	English	-	-
 1493	 Austria	Cesár Sampson	"Nobody But You"	English	3	342
-1494	 Greece	Yianna Terzi	"Oniro mou" (Όνειρό μου)	Greek	-	-
+1494	 Greece	Yianna Terzi	"Oniro mou" (?????? ???)	Greek	-	-
 1495	 Finland	Saara Aalto	"Monsters"	English	25	46
-1496	 Armenia	Sevak Khanagyan	"Qami" (Քամի)	Armenian	-	-
+1496	 Armenia	Sevak Khanagyan	"Qami" (????)	Armenian	-	-
 1497	  Switzerland	ZiBBZ	"Stones"	English	-	-
 1498	 Ireland	Ryan O'Shaughnessy	"Together"	English	16	136
 1499	 Cyprus	Eleni Foureira	"Fuego"	English	2	436
 				(title Spanish)		
 1500	 Norway	Alexander Rybak (2)	"That's How You Write a Song"	English	15	144
 1501	 Romania	The Humans	"Goodbye"	English	-	-
-1502	 Serbia	Sanja Ilić & Balkanika	"Nova deca" (Нова деца)	Serbian (Torlakian dialect)	19	113
+1502	 Serbia	Sanja Ili? & Balkanika	"Nova deca" (???? ????)	Serbian (Torlakian dialect)	19	113
 1503	 San Marino	Jessika feat. Jenifer Brening	"Who We Are"	English	-	-
 1504	 Denmark	Rasmussen	"Higher Ground"	English (Icelandic)	9	226
 1505	 Russia	Julia Samoylova	"I Won't Break"	English	-	-
 1506	 Moldova	DoReDoS	"My Lucky Day"	English	10	209
 1507	 Netherlands	Waylon	"Outlaw in 'Em"	English	18	121
 1508	 Australia	Jessica Mauboy	"We Got Love"	English	20	99
-1509	 Georgia	Ethno-Jazz Band Iriao	"For You (Sheni gulistvis)" (შენი გულისთვის)	Georgian	-	-
+1509	 Georgia	Ethno-Jazz Band Iriao	"For You (Sheni gulistvis)" (???? ?????????)	Georgian	-	-
 1510	 Poland	Gromee feat. Lukas Meijer	"Light Me Up"	English	-	-
 1511	 Malta	Christabelle	"Taboo"	English	-	-
 1512	 Hungary	AWS	"Viszlát nyár"	Hungarian	21	93
 1513	 Latvia	Laura Rizzotto	"Funny Girl"	English	-	-
 1514	 Sweden	Benjamin Ingrosso	"Dance You Off"	English	7	274
-1515	 Montenegro	Vanja Radovanović	"Inje" (Иње)	Montenegrin	-	-
+1515	 Montenegro	Vanja Radovanovi?	"Inje" (???)	Montenegrin	-	-
 1516	 Slovenia	Lea Sirk	"Hvala, ne!"	Slovene (Portuguese)	22	64
 1517	 Ukraine	Mélovin	"Under the Ladder"	English	17	130
 1518	 Spain	Amaia & Alfred	"Tu canción"	Spanish	23	61
@@ -1674,14 +1674,14 @@
 1524	 Cyprus	Tamta	"Replay"	English	13	109
 1525	 Montenegro	D mol	"Heaven"	English	-	-
 1526	 Finland	Darude feat. Sebastian Rejman	"Look Away"	English	-	-
-1527	 Poland	Tulia	"Fire of Love (Pali się)"	Polish/English	-	-
+1527	 Poland	Tulia	"Fire of Love (Pali si?)"	Polish/English	-	-
 1528	 Slovenia	Zala Kralj & Gašper Šantl	"Sebi"	Slovene	15	105
 1529	 Czech Republic	Lake Malawi	"Friend of a Friend"	English	11	157
 1530	 Hungary	Joci Pápai (2)	"Az én apám"	Hungarian	-	-
 1531	 Belarus	Zena	"Like It"	English	24	31
-1532	 Serbia	Nevena Božović	"Kruna" (Круна)	Serbian (English)	18	89
+1532	 Serbia	Nevena Božovi?	"Kruna" (?????)	Serbian (English)	18	89
 1533	 Belgium	Eliot	"Wake Up"	English	-	-
-1534	 Georgia	Oto Nemsadze	"Keep on Going (Sul tsin iare)" (სულ წინ იარე)	Georgian (Abkhaz)	-	-
+1534	 Georgia	Oto Nemsadze	"Keep on Going (Sul tsin iare)" (??? ??? ????)	Georgian (Abkhaz)	-	-
 1535	 Australia	Kate Miller-Heidke	"Zero Gravity"	English	9	284
 1536	 Iceland	Hatari	"Hatrið mun sigra"	Icelandic	10	232
 1537	 Estonia	Victor Crone	"Storm"	English	20	76
